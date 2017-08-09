@@ -1,4 +1,3 @@
-[submodule "IDT"]
+[submodule "tagging/IDT"]
 	path = tagging/IDT
 	url = https://github.com/jimregan/IrishDependencyTreebank.git
-	branch = my-changes

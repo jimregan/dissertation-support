@@ -27,6 +27,7 @@ my %unmwe = (
 "cés_moite" => [["cés", "cés", "Conj:Subord:Part:Sup"], ["moite", "mór", "Adj:Comp"]],
 "cheana_féin" => [["cheana", "cheana", "Adv:Gn"], ["féin", "féin", "Pron:Ref"]],
 "Chill_Dara" => [["Chill", "Cill", "Prop:Noun:Masc:Gen:Sg:Len"], ["Dara", "Dair", "Prop:Noun:Masc:Gen:Sg"]],
+"Cill_Dara" => [["Cill", "Cill", "Prop:Noun:Masc:Gen:Sg"], ["Dara", "Dair", "Prop:Noun:Masc:Gen:Sg"]],
 "chun_go" => [["chun", "chun", "Prep:Simp"], ["go", "go", "Prep:Simp"]],
 "Cill_Chainnigh" => [["Cill", "Cill", "Prop:Noun:Masc:Com:Sg"], ["Chainnigh", "Cainneach", "Prop:Noun:Masc:Gen:Sg:Len"]],
 "de_bharr" => [["de", "de", "Prep:Simp"], ["bharr", "barr", "Noun:Masc:Com:Sg:Len"]],
@@ -81,6 +82,7 @@ my %unmwe = (
 "thar_ceann" => [["thar", "thar", "Prep:Simp"], ["ceann", "ceann", "Noun:Masc:Com:Sg"]],
 "Tiobraid_Árann" => [["Tiobraid", "Tiobraid", "Prop:Noun:Masc:Gen:Sg"], ["Árann", "Ara", "Prop:Noun:Fem:Gen:Sg"]],
 "Uíbh_Fháilí" => [["Uíbh", "Uíbh", "Prop:Noun:Masc:Gen:Sg"], ["Fháilí", "Fháilí", "Prop:Noun:Masc:Gen:Sg"]],
+"gach_uile" => [["gach", "gach", "Det:Qty:Def"], ["uile", "uile", "Det:Qty:Idf"]],
 );
 
 while(<>) {
@@ -112,8 +114,10 @@ while(<>) {
         $tags =~ s/\+//;
         $tags =~ s/\+/:/g;
         $tags =~ s/Noun:Noun/Noun/;
-        if ($lemma =~ /_/ && exists $unmwe{$lemma}) {
-            for my $word (@{$unmwe{$lemma}}) {
+        if ($surface =~ /_/) {
+        print STDERR "\"$surface\"\n";
+            for my $word (@{$unmwe{$surface}}) {
+            print STDERR "HERE!\n";
                 print "_\t$$word[0]\t$$word[1]\t$$word[2]\t_\t_\t_\t_\t_\t_\n";
             }
         } else {

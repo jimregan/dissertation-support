@@ -4454,7 +4454,7 @@ Cá deas dá chéile sinn<SPLIT>?
 Beidh iontas uirthi cad chuige a bhfuil tú den eolas sin<SPLIT>.
 Níl contúirt ort dearmad a dhéanamh díom nuair a bheas mé ar shiúl<SPLIT>?
 Beidh mise anseo fá do choinne ag teacht duit<SPLIT>.
-A dh'iarraidh mná nach raibh toil aici do<SPLIT>.
+A dh'<SPLIT>iarraidh mná nach raibh toil aici do<SPLIT>.
 Druid do bhéal ó do chuid amaidí<SPLIT>.
 Más gaolmhar ní cosúil<SPLIT>.
 Tá an meán oíche ann<SPLIT>.

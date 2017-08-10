@@ -20,7 +20,8 @@ Abair liom a bhfuil uait.
 Abairt san aimsir láithreach.
 Abairt san aimsir chaite.
 Abairt san aimsir fháistineach.
-Abraimis go bhfuil an ceart aige. Cá bhfágann sé sin muidne?
+Abraimis go bhfuil an ceart aige.
+Cá bhfágann sé sin muidne?
 Ach an ndeachaigh sé timpeall na cruinne i ndáiríre?
 Seo chugat achoimre na tuarascála.
 Sháraigh siad Acht na dTeangacha Oifigiúla.
@@ -50,7 +51,8 @@ Chuaigh mé faoi agallamh le haghaidh poist.
 Agus anois, a lucht éisteachta, seo chugainn an nuacht.
 Agus, ar scor ar bith, nach cuma?
 Tá mise go maith, agus tusa?
-Tá mise go maith. Agus tú féin?
+Tá mise go maith.
+Agus tú féin?
 Bhí sé ina shaighdiúir aimsir an chogaidh.
 D'fhág siad an tír aimsir an ghorta.
 Ainmfhocal baininscneach é seo.
@@ -93,13 +95,15 @@ An bhfuil do dhóthain agat?
 An bhfuil eagla ort?
 An bhfuil eolas maith agat ar Phrág?
 An bhfuil fios an bhealaigh agat?
-An bhfuil Fraincis agat? - Tá, tá mé líofa.
+An bhfuil Fraincis agat?
+- Tá, tá mé líofa.
 An bhfuil Gaeilge ag gach duine anseo?
 An bhfuil Gaeilge mhaith agat?
 An bhfuil meas agat ar na gardaí?
 An bhfuil muid in am don chruinniú?
 An bhfuil mé chomh dona sin?
-An bhfuil nuacht ar bith agat? - Muise, níl.
+An bhfuil nuacht ar bith agat?
+- Muise, níl.
 An bhfuil níos mó de dhíth ort?
 An bhfuil nóiméad agat?
 An bhfuil ocras ort?
@@ -162,7 +166,8 @@ An féidir leat cuidiú liom?
 An féidir leat rún a choimeád?
 An féidir leat teachtaireacht a ghlacadh?
 An féidir liom bualadh isteach chugat tráthnóna?
-An féidir liom labhairt leat anois? - Ceart go leor, abair leat.
+An féidir liom labhairt leat anois?
+- Ceart go leor, abair leat.
 An féidir liom íoc le cárta creidmheasa?
 An gcaitheann tú siúcra?
 An gcaitheann tú tobac?
@@ -191,11 +196,13 @@ An mbeidh tú ag teacht anocht?
 An mbeidh tú fós thart go ceann cúpla nóiméad eile?
 An mbeidh tú sa bheár anocht?
 An mise an duine deireanach?
-An miste leat má osclaím an fhuinneog? - Ní miste.
+An miste leat má osclaím an fhuinneog?
+- Ní miste.
 Cá mhéad airgid atá aige?
 Tá an namhaid seo dochloíte.
 An ndearna tú dearmad ar mo lá breithe?
-An ndéanfá gar dom? - Go breá, cad atá uait?
+An ndéanfá gar dom?
+- Go breá, cad atá uait?
 An nglacann sibh le cártaí creidmheasa?
 An nglacann sibh le seiceanna?
 An nuacht, á cur i láthair ag...
@@ -265,7 +272,8 @@ Ar mhaith leat craiceann a bhualadh liom?
 Ar mhaith leat cupán caife?
 Ar mhaith leat cupán tae?
 Ar mhaith leat deoch eile?
-Ar mhaith leat deoch? - Ceart go leor.
+Ar mhaith leat deoch?
+- Ceart go leor.
 Ar mhaith leat dul ansin?
 Ar mhaith leat dul sa phictiúrlann?
 Ar mhaith leat greim bia?
@@ -277,7 +285,8 @@ Ar mhaith leat tuilleadh tae?
 Ar mhaith leat uachtar le do chaife?
 Ar mhaithe le greann a dúirt mé sin.
 Ar mhiste leat cuidiú liom an tábla seo a bhogadh?
-Ar mhiste leat? - Níor mhiste.
+Ar mhiste leat?
+- Níor mhiste.
 Ar muir is ar tír.
 Ar neamh is ar talamh.
 Ar ordaigh tú rud ar bith?
@@ -621,7 +630,8 @@ Cad a thug ort é sin a dhéanamh?
 Cad atá ar aigne agat?
 Cad atá ar siúl thiar ansin?
 Cad atá faoi chaibidil anocht?
-Cad atá ort? - Slaghdán, sílim.
+Cad atá ort?
+- Slaghdán, sílim.
 Cad atá siad ag rá inár dtaobh?
 Cad atá tú ag rá?
 Cad ba mhaith leat?
@@ -810,7 +820,8 @@ Conas a iompraíonn tú tú féin i gcomhluadar na banríona?
 Conas a ullmhaíonn an múinteoir na daltaí don saol taobh amuigh den scoil?
 Conas atá an aimsir?
 Conas atá do líon tí?
-Conas atá tú? - Tá mé go hainnis.
+Conas atá tú?
+- Tá mé go hainnis.
 Conas atá sibh?
 Conas is féidir linn na fadhbanna seo a shárú?
 Tá conradh buan agam.
@@ -899,7 +910,8 @@ Cá mhinice a fheiceann tú í?
 Cá mhéad a chonaic tú?
 Cá mhéad a d'íoc tú?
 Cá mhéad airgid atá uait?
-Cá mhéad atá agat? - Trí cinn.
+Cá mhéad atá agat?
+- Trí cinn.
 Cá mhéad atá ar bhearradh gruaige?
 Cá mhéad carr atá aige?
 Cá mhéad duine a bhí ann?
@@ -1177,7 +1189,8 @@ Fíor nó bréagach?
 Fógrófar torthaí an chomórtais amárach.
 Gabh mo leithscéal!
 Gabh mo leithscéal, a dhuine uasal.
-Gabh mo leithscéal? Cad atá i gceist agat?
+Gabh mo leithscéal?
+Cad atá i gceist agat?
 Gabhadh é.
 Gabhaim pardún agat as mo chuid droch-Ghaeilge.
 Gach duine againn.
@@ -1216,7 +1229,8 @@ Go raibh maith agat as do shaineolas a roinnt linn.
 Go raibh maith agat as teacht anocht.
 Go raibh maith agat as ucht do theachtaireachta.
 Go raibh maith agat as é sin a chur i gcuimhne dom.
-Go raibh míle maith agat. - Ná habair é.
+Go raibh míle maith agat.
+- Ná habair é.
 Gurb amhlaidh duitse!
 I dtrátha na bliana 535 RC.
 I dtús na seachtóidí thosaigh daoine ag filleadh ar ais abhaile.
@@ -1314,7 +1328,8 @@ Is Garda é.
 Is gnách dom éisteacht go géar ag na léachtaí seo.
 Is gnáthrud é.
 Is gá a bheith fíorchúramach.
-Is iad na Polannaigh an dream is mó inimirce go hÉirinn. Tá sé sin amhlaidh toisc a mhéad atá daonra na Polainne.
+Is iad na Polannaigh an dream is mó inimirce go hÉirinn.
+Tá sé sin amhlaidh toisc a mhéad atá daonra na Polainne.
 Is iomaí duine sa tír seo nach léann leabhar ar bith ó cheann ceann na bliana.
 Is iomaí post a bhí aige i rith an ama.
 Is leor focal amháin.
@@ -1587,7 +1602,8 @@ Níl aon suim aici sna fir.
 Níl cead pinn luaidhe a úsáid ach amháin chun nótaí a thógáil.
 Níl ciall leis an abairt.
 Níl duine ar bith anseo.
-Níl dóthain airgid againn. - Go díreach!
+Níl dóthain airgid againn.
+- Go díreach!
 Níl fios a ngnó acu.
 Níl freagra do cheiste agam.
 Níl go leor ama againn.
@@ -1656,7 +1672,9 @@ Phós sí fear saibhir.
 Phós sí seanfhear.
 Phósfainn duine ar bith!
 Pioc aníos ón urlár é.
-Pionta Guinness, le do thoil. - Seo duit. - Maith an fear.
+Pionta Guinness, le do thoil.
+- Seo duit.
+- Maith an fear.
 Pléadh an cheist ag cruinniú na comhairle.
 Pléann an leabhar le handúiligh drugaí.
 Rachaidh muid go dtí an tuaisceart.
@@ -2275,7 +2293,8 @@ Tá sé faoin bhord.
 Tá sé feicthe agam.
 Tá sé fliuch.
 Tá sé fuar amuigh.
-Tá sé fuar inniu. Tá, cinnte.
+Tá sé fuar inniu.
+Tá, cinnte.
 Tá sé fuar inniu.
 Tá sé fuar taobh amuigh.
 Tá sé fuar.
@@ -2337,7 +2356,8 @@ Tá tuarascáil le foilsiú gan mhoill.
 Tá tuilleadh eolais iarrtha againn.
 Tá tuilleadh eolais le fáil ón oifig.
 Tá tábhacht le rialacha.
-Tá tú ag dul amach sa bháisteach? Níl aon chiall agat!
+Tá tú ag dul amach sa bháisteach?
+Níl aon chiall agat!
 Tá tú chomh dubh le deatach.
 Tá tú cosúil le mo mháthair.
 Tá tú nach mór ann.
@@ -2373,12 +2393,16 @@ Tá báisteach air.
 Tá sé ag stealladh báistí.
 Bíonn gach tosach lag.
 Cad is ainm duit?
-Dia dhuit. Is mise Seán Ó Briain.
-Dia is Muire dhuit. Tar isteach. Conas tá tú?
+Dia dhuit.
+Is mise Seán Ó Briain.
+Dia is Muire dhuit.
+Tar isteach.
+Conas tá tú?
 Suigh síos ansin.
 Tá sé fuar inniu.
 Tá mé i mo chónaí in uimhir a trí, Sráid Mhór, árasán a dó.
-Tá bileog ansin. Tá an t-eolas ar fad ann.
+Tá bileog ansin.
+Tá an t-eolas ar fad ann.
 Go raibh maith agat, slán.
 Tá cathaoir ansin.
 Tá Máire anseo.
@@ -2392,14 +2416,19 @@ Conas tá an aimsir?
 Conas tá do mháthair?
 Dia dhuit, is mise do chomharsa nua, in árasán a deich.
 Tá mé go breá, go raibh maith agat.
-Tar isteach. Cad is ainm duit? Is mise Máire.
+Tar isteach.
+Cad is ainm duit?
+Is mise Máire.
 Suigh síos.
 Cad is ainm duit, le do thoil?
 Áine Ní Chonaill is ainm dom.
 Cad as tú?
-Mo shlí bheatha? Is múinteoir mé.
-Tuigim. Go raibh maith agat.
-Go raibh maith agat. - Tá fáilte romhat.
+Mo shlí bheatha?
+Is múinteoir mé.
+Tuigim.
+Go raibh maith agat.
+Go raibh maith agat.
+- Tá fáilte romhat.
 Is mise Caitlín Ní Cheallaigh... agus... cé hé tusa?
 Bob Mac Mathúna is ainm dom.
 An Meiriceánach tú?
@@ -2430,7 +2459,8 @@ An bhfuil Séamas anseo?
 An bhfuil tú pósta?
 An bhfuil clann agat?
 Tá sé sé bliana d'aois.
-Dia dhuit, a Dhónaill. Conas tá cúrsaí?
+Dia dhuit, a Dhónaill.
+Conas tá cúrsaí?
 An bhfuil tú fós i do chónaí in árasán?
 Tá mo theach féin agam anois.
 An bhfuil tú pósta anois?
@@ -2492,12 +2522,14 @@ Naoi mbliana is dhá scór.
 Cúig bliana agus caoga.
 Cén t-ainm atá ar mhac Thomáis?
 Cén chaoi a bhfuil tú, a Pheig?
-Tá mé go breá, a Bhairbre. Agus tú féin?
+Tá mé go breá, a Bhairbre.
+Agus tú féin?
 Tá mise go maith freisin!
 Is é seo Cathal Mac Donncha.
 Tá áthas orm casadh leat, a Chathail.
 Dia dhuit, a Bhairbre.
-Cuirfidh mé glaoch ort anocht, a Bhairbre. Cén uimhir fóin atá agat?
+Cuirfidh mé glaoch ort anocht, a Bhairbre.
+Cén uimhir fóin atá agat?
 Slán libh.
 Slán agat.
 Tá mise go maith freisin!
@@ -2513,7 +2545,8 @@ An bhfuil tú go breá?
 An bhfuil tusa go maith?
 An bhfuil áthas ort?
 Cé as thú, a Mháirtín?
-Is as Indreabhán mé. Cá bhfuil tusa i do chónaí?
+Is as Indreabhán mé.
+Cá bhfuil tusa i do chónaí?
 An bhfuil áiseanna maithe sa gceantar sin?
 Is sráidbhaile mór é Maigh Cuilinn anois.
 Tá neart siopaí ann agus tá ollmhargadh ann freisin.
@@ -2532,7 +2565,8 @@ An Meiriceánach thú?
 Is Breatnach mé.
 Is Astrálach mé féin.
 An Sasanach thú?
-Dia dhuit! Céard atá ag teastáil uait?
+Dia dhuit!
+Céard atá ag teastáil uait?
 Ba mhaith liom síntiús a ghlacadh.
 Maith go leor.
 Cén t-ainm atá ort?
@@ -2611,7 +2645,8 @@ Seo é mo mhac Mícheál.
 Seo iad mo thuismitheoirí.
 An bhfuil aithne agat ar mo dheartháir?
 An bhfuil aithne agaibh ar mo dheirfiúr?
-Dia dhuit! Fáilte romhat isteach.
+Dia dhuit!
+Fáilte romhat isteach.
 Ba mhaith liom teach a thógáil ar cíos ar feadh seachtaine i mí Aibreáin.
 Cé mhéad seomra codlata atá uait?
 Bhuel, tá ceann ar an gCnoc in aice leis an séipéal.
@@ -2622,7 +2657,8 @@ Beidh sé sin ceart go leor.
 An maith leat é?
 Tá sé ciúin anseo.
 An féidir linn dul isteach?
-Is féidir cinnte. Tá an eochair agam anseo.
+Is féidir cinnte.
+Tá an eochair agam anseo.
 Is maith liom an halla agus an seomra suite.
 Cá bhfuil an chisteanach?
 Tá sé ansin ar chlé.
@@ -2655,7 +2691,8 @@ Níl sé ródhaor.
 Tá sé trí chéad euro sa mí.
 Tá sé seacht gcéad euro sa mí.
 Tá mé ag dul soir go Gaillimh inniu tar éis na hoibre
-Céard a dhéanann tú i nGaillimh? Bíonn tú ag dul isteach go minic.
+Céard a dhéanann tú i nGaillimh?
+Bíonn tú ag dul isteach go minic.
 Téim ag snámh sa linn snámha i mBóthar na Trá.
 Ina dhiaidh sin, is breá liom dul go dtí an phictiúrlann i nGaillimh uair sa tseachtain.
 Is breá liomsa dul chuig dráma sa Taibhdhearc ar an tSráid Láir.
@@ -2734,7 +2771,8 @@ Tá sé sin ite agam cheana féin.
 Tá a fhios agam gur ag a dó a chlog atá m'agallamh ar siúl.
 Tá brón orm má tá mé róluath.
 Cónaím cúpla ciliméadar soir an bóthar.
-Níl tú róluath. Tar isteach.
+Níl tú róluath.
+Tar isteach.
 Seo é an leagan is deireanaí de mo CV.
 An bhfuil clóscríobh agat?
 Tá mé réasúnta maith ar an ríomhaire agus tá mé in ann Word agus Excel a úsáid.
@@ -2754,12 +2792,15 @@ Cén chaoi a bhfuil ag éirí leat?
 Tá ag éirí go han-mhaith liom.
 Maith go leor.
 Níl ag éirí go rómhaith liom.
-Dia dhuit. An féidir liom labhairt le Seán?
+Dia dhuit.
+An féidir liom labhairt le Seán?
 Céard is féidir liom a dhéanamh duit?
 Chonaic mé d'fhógra sa bpáipéar agus tá suim agam sa bpost.
-Gabh mo leithscéal. An féidir leat é sin a rá aríst, le do thoil?
+Gabh mo leithscéal.
+An féidir leat é sin a rá aríst, le do thoil?
 Chonaic mé an fógra a bhí agaibh sa bpáipéar agus tá suim agam sa bpost.
-An bhféadfá labhairt níos airde, le do thoil? Tá an líne ag briseadh.
+An bhféadfá labhairt níos airde, le do thoil?
+Tá an líne ag briseadh.
 Ní féidir liom rud ar bith a chloisteáil anois.
 Glaoigh ar ais aríst, le do thoil.
 An féidir linn dul isteach?
@@ -2767,11 +2808,13 @@ Is féidir leat leadóg bhoird a imirt anseo.
 Táimid ag iarraidh bus a fháil inniu, más féidir linn.
 Is féidir liom Sínis a labhairt.
 Cé chomh maith is atá do chuid Spáinnise?
-Níl mé rómhaith. Tá mé ag foghlaim fós.
+Níl mé rómhaith.
+Tá mé ag foghlaim fós.
 Tá Araibis líofa aici.
 Tá beagáinín Breatnaise acu.
 Níl agam ach beagáinín Fraincise.
-Tá brón orm. Ní thuigim.
+Tá brón orm.
+Ní thuigim.
 Céard a chiallaíonn "Eabhrais"?
 An bhféadfá é sin a litriú?
 Níos moille, le do thoil!
@@ -2789,11 +2832,13 @@ Rugadh agus tógadh í i Ros an Mhíl, ach tá cónaí orainn i Leitir Mucú ano
 Is as an bhFrainc mé féin.
 Tá m'fhear dífhostaithe faoi láthair.
 Cén post a bhí aige?
-Is meicneoir é. Ní maith leis an obair sin níos mó.
+Is meicneoir é.
+Ní maith leis an obair sin níos mó.
 Ba mhaith leis a bheith ag obair le ríomhairí.
 Tá sé ag déanamh cúrsa ar an gCeathrú Rua faoi láthair.
 An mic léinn sibh in Ollscoil na hÉireann, Gaillimh?
-Is mic léinn iarchéime mé féin agus Gráinne. Céard fúibhse?
+Is mic léinn iarchéime mé féin agus Gráinne.
+Céard fúibhse?
 Is mac léinn páirtaimseartha mé.
 Tá mé ag déanamh dioplóma san aisteoireacht.
 Céard fútsa, a Liam?
@@ -2836,14 +2881,16 @@ An bhfuil aon scéal agat anocht?
 Níl scéal ar bith agam.
 An bhfuil tú ag obair i mBóthar na Trá fós?
 Tá mé ag obair i nGaillimh in oifig dhlíodóra, agus tú féin?
-Níl mé ag obair faoi láthair. Tá mé dífhostaithe.
+Níl mé ag obair faoi láthair.
+Tá mé dífhostaithe.
 An bhfuil ocras ort?
 An itheann tú iasc?
 Tá an t-iasc anseo an-bhlasta.
 Ní maith liom iasc.
 Céard eile atá acu anseo le n-ithe?
 Cén post atá agaibh?
-Is ceoltóirí muid. Is amhránaí mise.
+Is ceoltóirí muid.
+Is amhránaí mise.
 Casaim an giotár agus an fheadóg stáin.
 Tá mo chuid feadógaí agam anseo i mo mhála.
 Cén áit a mbíonn sibh ag casadh bhur gcuid ceoil?
@@ -2853,7 +2900,8 @@ Caithfidh tú thíocht.
 Agus beidh muid ag casadh sna tithe tábhairne Tír na nÓg agus Sláinte i Manhattan an deireadh seachtaine seo.
 An itheann tú iasc?
 Ithim chuile shórt bia.
-Ní ithim feoil. Is feoilséantóir mé.
+Ní ithim feoil.
+Is feoilséantóir mé.
 An ólann tú fíon?
 Ní ólaim ach pórtar.
 Ní ólaim fíon ná fuisce.
@@ -2866,7 +2914,8 @@ Tá do theach ar an tsráid seo.
 Tá bhur gcairde ag ól piontaí.
 Is í an bhean sin a mháthair.
 Cén chaoi a bhfuil tú, a Mhairéad?
-Tá mé ag coinneáil ag imeacht, a Pháidín. Céard fútsa?
+Tá mé ag coinneáil ag imeacht, a Pháidín.
+Céard fútsa?
 Níl mé ag aireachtáil go maith ar chor ar bith.
 Céard atá ort?
 Ghortaigh mé mo mhuineál cúpla mí ó shin.
@@ -2875,10 +2924,13 @@ An raibh tú ag an dochtúir?
 Thug sí oideas dom agus fuair mé an cógas sa gcógaslann ach cuireann an cógas sin tuirse orm.
 Bhuel, tá súil agam go mbeidh biseach ort go luath.
 Dia dhuit, a dhochtúir.
-Níl mé rómhaith. Tá pian i mo lámh.
+Níl mé rómhaith.
+Tá pian i mo lámh.
 Suigh síos anseo agus crap suas do mhuinchille.
-Tá ballbhrú orm anseo. Sin an áit ar bhuail mé mo lámh ar dhoras an chairr.
-An bhfuil pian ort anseo? Céard faoi anseo?
+Tá ballbhrú orm anseo.
+Sin an áit ar bhuail mé mo lámh ar dhoras an chairr.
+An bhfuil pian ort anseo?
+Céard faoi anseo?
 Tá drochphian orm ansin.
 Cuir an t-ungadh seo ar do lámh 'chuile mhaidin agus 'chuile oíche.
 Tar ar ais anseo i gceann coicíse.
@@ -2989,17 +3041,22 @@ Bhí sé ródhaor.
 Bhí na daoine go deas.
 Bhí siad an-chairdiúil.
 Ní raibh siad cairdiúil ar chor ar bith.
-Dúisigh! Éirigh ar an bpointe!
+Dúisigh!
+Éirigh ar an bpointe!
 Ná bí leisciúil!
 Tá tuirse orm!
 Tá ocras orm, a Mhama!
-Gabh i leith uait! Isteach an chisteanach leat!
+Gabh i leith uait!
+Isteach an chisteanach leat!
 Céard atá uait le n-ithe ar maidin?
 Calógaí atá uaim.
-Oscail an bosca, a Mhama. Níl mé in ann é a oscailt.
+Oscail an bosca, a Mhama.
+Níl mé in ann é a oscailt.
 An bhfuil tuilleadh bainne uait leis sin?
 Tabhair gloine sú oráiste dom, a Mhama.
-Abair "le do thoil". - Le do thoil. - Maith an cailín.
+Abair "le do thoil".
+- Le do thoil.
+- Maith an cailín.
 Céard atá uaibh?
 Tabhair dhá chóipleabhar agus dhá pheann luaidhe dúinn, le do thoil.
 Seo dhaoibh na pinn.
@@ -3100,7 +3157,8 @@ Istigh sa teach tábhairne.
 An bhfuil tú ag dul ag an party?
 Má tá tú go maith, tabharfaidh mé surprise chugat.
 By dad, bhí an-lá againn!
-Conas atá tú? Tá mé go maith.
+Conas atá tú?
+Tá mé go maith.
 Tá mé go maith, go raibh maith agat.
 Is mise Róisín.
 Cad as duit, a Róisín?
@@ -3118,7 +3176,8 @@ Tá mé sa chathair le deich mbliana anuas.
 Tá an ceantar seo go hálainn.
 Tá áiseanna maithe ann agus tá muintir na háite go deas.
 Tá tithe deasa anseo.
-Dia duit. Dia is Muire duit.
+Dia duit.
+Dia is Muire duit.
 Tá mé go breá.
 Níl caill orm.
 Go diail!
@@ -3139,8 +3198,10 @@ Tá mise i mo chónaí díreach in aice na farraige.
 An bhfuil garáiste i gCarna?
 Bhuel, tabhair an carr seo ann amárach.
 Tá an solas sin briste.
-Inis dom faoin sráidbhaile. An bhfuil áiseanna maithe ann?
-Tá áiseanna den chéad scoth ann. Tá siopaí maithe ann, oifig an phoist, scoileanna, banc, agus linn snámha.
+Inis dom faoin sráidbhaile.
+An bhfuil áiseanna maithe ann?
+Tá áiseanna den chéad scoth ann.
+Tá siopaí maithe ann, oifig an phoist, scoileanna, banc, agus linn snámha.
 An bhfuil mórán le déanamh san oíche ann?
 Tá cúpla teach tábhairne ann, agus bíonn seisiúin cheoil ar siúl ag an deireadh seachtaine.
 Tá mé i mo chónaí faoin tuath.
@@ -3160,11 +3221,13 @@ Táim ag súil go mór leis.
 Cá mhéad duine agaibh a bhí ann?
 Deichniúr againn ar fad a bhí ann.
 Tá an deichniúr acu fós beo, buíochas le Dia.
-Fan go bhfeice mé - seisear buachaillí agus ceathrar cailíní. An bhfuil an ceart agam?
+Fan go bhfeice mé - seisear buachaillí agus ceathrar cailíní.
+An bhfuil an ceart agam?
 An in Éirinn atá siad ina gcónaí?
 Tá triúr i Meiriceá, beirt san Astráil, beirt eile i Sasana, agus duine eile san Afraic Theas.
 Níl sa bhaile anois ach mé féin agus mo dheartháir Pádraig.
-Tá fáilte romhaibh ar ais. Ar an chlár inniu tá mé ag caint le Aoife Ní Loideáin.
+Tá fáilte romhaibh ar ais.
+Ar an chlár inniu tá mé ag caint le Aoife Ní Loideáin.
 An bhfuil deartháir nó deirfiúr ar bith agat?
 Cé acu duine agaibh is sine, tusa nó Siobhán?
 Is í Siobhán is sine.
@@ -3182,14 +3245,17 @@ Mise chomh maith!
 Cé acu duine agaibh is sine?
 Tá sise pósta agus triúr clainne aici.
 Tá sise pósta chomh maith.
-Sin Úna, sin Niamh. Ansin Muiris: tá seisean i lár báire. Ansin Fiona; agus mise ar deireadh.
+Sin Úna, sin Niamh.
+Ansin Muiris: tá seisean i lár báire.
+Ansin Fiona; agus mise ar deireadh.
 In Chicago atá sí leis na blianta fada.
 Agus sin iad Seán agus Tomás - cúpla iadsan.
 San Afraic Theas atá Tomás - ar na misin.
 Agus cé hí seo?
 Cailleadh a fear céile go tobann anuraidh, beannacht Dé leis.
 Bhí sibh chomh cosúil lena chéile nuair a bhí sibh beag!
-Cad é faoi do thuismitheoirí? An réitíonn tú go maith leo siúd?
+Cad é faoi do thuismitheoirí?
+An réitíonn tú go maith leo siúd?
 Tá mo thuismitheoirí scartha.
 Réitím níos fearr le m'athair ná le mo mháthair.
 An le do mháthair atá tú i do chónaí?
@@ -3281,7 +3347,8 @@ Feicfidh mé thú i gceann fiche nóiméad.
 Tá mé uchtaithe.
 Céard a dhéanann tú ag an deireadh seachtaine de ghnáth?
 Bhuel, sa samhradh téim chuig na cluichí peile.
-Tá spéis agat sa bpeil, an bhfuil? D'fhéadfá a rá go bhfuil!
+Tá spéis agat sa bpeil, an bhfuil?
+D'fhéadfá a rá go bhfuil!
 An dtéann tú ag snámh?
 Bím ag rámhaíocht sa gcurach.
 Is maith liom a bheith ag iascach.
@@ -3291,7 +3358,8 @@ Tá bád seoil ag mac dearthár liom.
 An dtaitníonn an fharraige leat?
 Taitníonn an fharraige thar cionn liom.
 Is maith liom a bheith ag snámh chomh maith.
-Téim ag snámh sa bhfarraige chuile lá den bhliain. Fiú sa gheimhreadh?
+Téim ag snámh sa bhfarraige chuile lá den bhliain.
+Fiú sa gheimhreadh?
 Taitníonn an geimhreadh go mór liom.
 Téim go hAndorra ag scíáil.
 An mbíonn an t-am agat le bheith ag amharc ar an teilifís ar chor ar bith?
@@ -3302,7 +3370,8 @@ Dé Máirt téim amach ag caitheamh saighead.
 An mbíonn tú ag caitheamh saighead gach aon oíche Dé Máirt?
 Ní théim amach choíche Dé Céadaoin ná Déardaoin.
 Cad a bhíonn ar siúl agat?
-Bím ag amharc ar an teilifís. Bím ag scimeáil ar an idirlíon chomh maith.
+Bím ag amharc ar an teilifís.
+Bím ag scimeáil ar an idirlíon chomh maith.
 Cad a bhíonn ar siúl agat Dé hAoine?
 Téim féin agus mo bhean chéile amach fá choinne béile achan oíche Aoine.
 Agus céard faoin gcuid eile den deireadh seachtaine?
@@ -3335,7 +3404,9 @@ Bíonn an-chraic againn.
 Bíonn drámaí maithe ar an teilifís.
 An bhfuil spéis agat i gcláracha spóirt?
 Bainim an-sásamh as an snúcar.
-An mbíonn tú ag imirt snúcair? Ní bhím. Corrchluiche púil sa bpub, sin an méid.
+An mbíonn tú ag imirt snúcair?
+Ní bhím.
+Corrchluiche púil sa bpub, sin an méid.
 An dtéann tú amach san oíche mórán?
 Téim ag éisteacht le ceol Gaelach sna tithe tábhairne.
 Tá an-dúil agam sa gceol Gaelach.
@@ -3346,7 +3417,8 @@ Anois, ba mhaith liom cúpla ceist eile a chur ort faoi chaitheamh aimsire.
 An dtaitníonn peil leat?
 Níl suim ar bith agam ann.
 Cluiche fadálach atá ann.
-An ndéanann tú aclaíocht ar bith? Ní dhéanann - ach amháin bheith ag caitheamh saighead.
+An ndéanann tú aclaíocht ar bith?
+Ní dhéanann - ach amháin bheith ag caitheamh saighead.
 Is fuath liom an sacar.
 Tá sé an-leadránach mar chaitheamh aimsire.
 Cathain a imríonn tú galf de ghnáth?
@@ -3373,14 +3445,16 @@ Agus Bríd is ainm domsa.
 Cén t-ainm atá ort?
 Cad is ainm duit?
 C'ainm atá ort?
-Máirtín is ainm domsa. Cén t-ainm atá ortsa?
+Máirtín is ainm domsa.
+Cén t-ainm atá ortsa?
 Is mise Michelle – cén t-ainm atá ortsa?
 Mise Eoin.
 Tá sé go deas bualadh leat, a Eoin.
 Dia duit, a Liam.
 Dia is Muire duit, a Áine.
 Cén chaoi a bhfuil tú na laethanta seo?
-Tá mé go maith, go raibh maith agat. Agus tú féin?
+Tá mé go maith, go raibh maith agat.
+Agus tú féin?
 Tá mé go breá.
 Tá sé go deas tú a fheiceáil arís!
 Tá sé go deas bualadh leatsa freisin.
@@ -3389,19 +3463,25 @@ Tá sé go breá.
 Seo é Micheál.
 Seo í Bríd.
 Seo iad Máirtín agus Aoife.
-Slán leat, a Éilís. Feicfidh mé amárach tú.
-Slán agat, a Éanna. Tóg go bog é!
-Slán go fóill, a Éanna. Tóg go bog é!
+Slán leat, a Éilís.
+Feicfidh mé amárach tú.
+Slán agat, a Éanna.
+Tóg go bog é!
+Slán go fóill, a Éanna.
+Tóg go bog é!
 Seo é Barry.
 Tá sé go deas bualadh leat, a Nóra.
 Seo í Laura.
 Cén chaoi a bhfuil tú?
 Agus seo iad Stiofán agus Peadar.
 Cén chaoi a bhfuil sibh?
-Slán leat, a Shiobhán. Beidh mé ag caint leat amárach.
+Slán leat, a Shiobhán.
+Beidh mé ag caint leat amárach.
 Slán agat, a Shéamais, agus go raibh maith agat arís.
-Slán leat, a Mháire. Slán abhaile.
-Slán agat, a Shéamais. Feicfidh mé amárach tú.
+Slán leat, a Mháire.
+Slán abhaile.
+Slán agat, a Shéamais.
+Feicfidh mé amárach tú.
 Cé as thú?
 Cé as tú?
 Cad as tú?
@@ -3417,15 +3497,20 @@ Is Meiriceánach mé.
 Is Astrálach mé.
 An Francach tú?
 An Spáinneach tú?
-An Ceanadach tú? - Is ea.
-An Gearmánach tú? - Ní hea.
+An Ceanadach tú?
+- Is ea.
+An Gearmánach tú?
+- Ní hea.
 Cé as thú, a Bhriain?
-Is as Glaschú mé. Cé as thú féin?
+Is as Glaschú mé.
+Cé as thú féin?
 As Nua-Eabhrac mé ach tá mé i mo chónaí i gCorcaigh anois.
 Cá bhfuil tusa i do chónaí, a Alan?
-Tá mé i mo chónaí i gCorcaigh anois. - Tá mise i mo chónaí ansin freisin!
+Tá mé i mo chónaí i gCorcaigh anois.
+- Tá mise i mo chónaí ansin freisin!
 Is as an Róimh mé ach tá mé i mo chónaí i mBaile Átha Cliath anois.
-Tá an Róimh go hálainn. Bhí mé ansin anuraidh.
+Tá an Róimh go hálainn.
+Bhí mé ansin anuraidh.
 As Sydney mé ach tá mé i mo chónaí i Londain anois.
 Cén seoladh atá agat?
 Tá mé i mo chónaí i gContae Mhaigh Eo.
@@ -3443,7 +3528,9 @@ Tá mé i mo chónaí i mbaile beag i gContae Chill Dara na laethanta seo.
 An maith leat an baile?
 Is breá liom é.
 Tá áiseanna maithe ann: ionad siopadóireachta, cúpla teach tábhairne, bialann álainn, óstán agus linn snámha.
-Tá áiseanna maithe ann, mar sin. - Tá. Tá mé an-sásta ansin.
+Tá áiseanna maithe ann, mar sin.
+- Tá.
+Tá mé an-sásta ansin.
 Cá bhfuil tusa i do chónaí anois, a Chaitríona?
 Tá mé i mo chónaí in Órán Mór i gContae na Gaillimhe.
 Tá an baile sin in aice le cathair na Gaillimhe, nach bhfuil?
@@ -3461,8 +3548,10 @@ Tá mé singil.
 Tá mé scartha.
 Tá mé colscartha.
 Is baintreach mé.
-An bhfuil tú pósta? - Tá.
-An bhfuil tú pósta? - Níl.
+An bhfuil tú pósta?
+- Tá.
+An bhfuil tú pósta?
+- Níl.
 An bhfuil tusa pósta?
 An bhfuil tú féin pósta?
 An dtéann tú ansin go minic?
@@ -3482,7 +3571,8 @@ Tá brón orm é sin a chloisteáil.
 Tá mé geallta le Caoimhín.
 Táimid an-sona le chéile.
 Tá sé sin go hiontach!
-An bhfuil páistí agat? - Tá, tá beirt agam, mac agus iníon.
+An bhfuil páistí agat?
+- Tá, tá beirt agam, mac agus iníon.
 Agus cén aois atá siad?
 Tá Eimear seacht mbliana agus tá Dara deich mbliana.
 An bhfuil páistí agat féin?
@@ -3526,12 +3616,14 @@ Tá sé faoin tuath.
 An bhfuil an t-árasán mór?
 Tá dhá sheomra codlata ann, cistin an-deas agus seomra suí an-mhór.
 An bhfuil tú i do chónaí i d'aonar?
-Tá mé ag roinnt an árasáin le cara liom, Judy. Tá sí an-deas.
+Tá mé ag roinnt an árasáin le cara liom, Judy.
+Tá sí an-deas.
 Cá bhfuil tú féin i do chónaí faoi láthair?
 Tá mé i mo chónaí i m'aonar i lár na cathrach.
 Cá bhfuil an teach suite?
 Tá sé gar don abhainn.
-Cé mhéad seomra atá sa teach? - Trí cinn.
+Cé mhéad seomra atá sa teach?
+- Trí cinn.
 An bhfuil an cíos daor?
 Tá sé ceart go leor.
 Tá sé an-saor.
@@ -3553,11 +3645,13 @@ An bhfuil tusa fós ag roinnt árasáin le Laura?
 Táimid ansin le dhá bhliain anois.
 Cá bhfuil an t-árasán?
 Tá sé gar do lár an bhaile, in aice leis an ionad siopadóireachta.
-An maith leat é? - Is maith.
+An maith leat é?
+- Is maith.
 Tá sé breá ciúin.
 Is maith liom an teach.
 Ní maith liom an t-árasán.
-An maith leat é? - Ní maith.
+An maith leat é?
+- Ní maith.
 Is maith liom an t-árasán; níl sé ródhaor agus tá sé ciúin agus compordach.
 Tá mé i mo chónaí i dteach beag, gar do lár na cathrach i mBaile Átha Cliath.
 Tá an teach suite i gcearnóg bheag thart ar dhá chiliméadar ó lár na cathrach.
@@ -3626,7 +3720,8 @@ An dtéann tú chuig ceolchoirmeacha?
 Go hiontach.
 Agus téim chuig dráma nó chuig scannán go minic freisin.
 Tá saol iontach agat!
-Cé chomh minic is a théann tú chuig drámaí? - Go fíorannamh.
+Cé chomh minic is a théann tú chuig drámaí?
+- Go fíorannamh.
 Imrím peil go minic.
 Éistim leis an raidió anois is arís.
 Féachaim ar an teilifís an t-am ar fad.
@@ -3642,7 +3737,8 @@ Imrím leadóg sa samhradh.
 Is ceoltóir mé agus seinnim an giotár go minic sa bhaile.
 Is breá liom an t-amhránaí Albanach Julie Fowlis.
 Cén t-am atá sé?
-Gabh mo leithscéal. Cén t-am atá sé?
+Gabh mo leithscéal.
+Cén t-am atá sé?
 Cén t-am atá sé, le do thoil?
 Cén t-am a éiríonn tú ar maidin?
 Cén t-am a éiríonn tú de ghnáth?
@@ -3754,7 +3850,8 @@ Ar léigh tú gach ar scríobh na húdair seo?
 Cad a insíonn seo dúinn faoin údar?
 Ní údar náire domsa a bheith i m'Éireannach.
 Cé is údar don saothar sárluachmhar seo?
-Thiomáin sé go deas réidh. Ní gan údar mar bhí sé tuirseach.
+Thiomáin sé go deas réidh.
+Ní gan údar mar bhí sé tuirseach.
 Ní chuirfidís san ospidéal í gan údar éigin.
 Tá a fhios agam go maith go bhfuil tú bródúil aisti, agus údar agat.
 Ní hé an t-athaontú údar gach oilc.
@@ -3832,7 +3929,8 @@ Thit a chodladh air sa traein.
 Luigh Máire tamall fada ar a leaba sular thit néal ar bith codlata uirthi.
 Cuireann sé go mór le maise an leathanaigh má bhíonn sé beagáinín níos dathúla ná sin.
 Gach rud a rinne sé, chuir sé maise agus slacht air.
-Tháinig sé aniar aduaidh uirthi! Ba ghránna an mhaise dó é.
+Tháinig sé aniar aduaidh uirthi!
+Ba ghránna an mhaise dó é.
 Is olc an mhaise do dhaoine a bheith ag súil le moladh.
 Cheap mé gur sheafóideach an mhaise dúinn a bheith ag argóint.
 Ba chloíte an mhaise dom é gan comhairle a thabhairt daoibh.
@@ -3850,15 +3948,19 @@ Bhí allas liom agus tuirse i ngach ball díom.
 Ní cuimhin liom gach pioc den scéal ach is cuimhin liom gur inis sé go hálainn é.
 Bhí daoine ann, chuala mé ag béiceadh iad, ach ní raibh mé in ann tadhall leo.
 Bhí gaineamh do gach leith dínn soir siar, thuaidh theas.
-Is ionann cás dúinn, mar sin. Táimid nasctha, tusa agus mise.
+Is ionann cás dúinn, mar sin.
+Táimid nasctha, tusa agus mise.
 Ar an gceathrú lá chonaiceamar scuaine camall ar íor na spéire.
-Feicfidh sibh sceacha a bhfuil deilgne orthu. Má éiríonn libh na sceacha deilgneacha a chur díbh, beidh an lá libh.
+Feicfidh sibh sceacha a bhfuil deilgne orthu.
+Má éiríonn libh na sceacha deilgneacha a chur díbh, beidh an lá libh.
 D'ardaigh sé a lámh chun a smig a thochas.
 Bhí an dorchadas do gach leith dínn.
-D'fhéach mé go grinn ag iarraidh cor a fheiceáil, cor beag ar bith. An mise an t-aon neach beo anseo?
+D'fhéach mé go grinn ag iarraidh cor a fheiceáil, cor beag ar bith.
+An mise an t-aon neach beo anseo?
 Cé tusa domsa?
 Dhein na madraí drannadh.
-Bhí madraí leis. Ní cuimhin liom ach a gcuid fiacla ag drannadh orainn.
+Bhí madraí leis.
+Ní cuimhin liom ach a gcuid fiacla ag drannadh orainn.
 "Tá siad ag teacht faoinár ndéin!" liúigh duine de na fir óga agus bhí gliondar croí orainn go léir.
 Níor bhean í a chuaigh siar ar a focal.
 D'fhan fionnuaire éadrom san aer a chuir dinglis ar a craiceann agus faobhar ar a cruthaíocht.
@@ -3877,7 +3979,8 @@ Ní hí an aimsir amháin faoi deara é.
 Bhí a gcosa ag lapadaíl san uisce fionnuair.
 Má bhí sé sin sa chinniúint di, dhéanfadh sí é.
 Ní mhaireann aon ní ach seal.
-Chas sí an lasc thuisleach. Las na soilse an athuair.
+Chas sí an lasc thuisleach.
+Las na soilse an athuair.
 Bhí sí ag ciceáil ghairbhéal an chosáin amach roimpi.
 Bhí ort dul síos ar do chromada chun dul isteach ann.
 Chúlaigh sí amach as an bpluais ar na ceithre boinn.
@@ -3889,7 +3992,8 @@ Ní raibh an gríoscán glanta.
 "Cad atá cearr leat?" a scairt Norma-Jean nuair a chaith Rebekka an babhla isteach sa doirteal de ráig.
 Bhí an pota chomh mór sin go bhféadfá brachán do theach lán bochtán a dhéanamh ann.
 Lig sí liú ard gáire aisti.
-Tá d'ordóg ag cur fola. Cuir greimlín uirthi go beo!
+Tá d'ordóg ag cur fola.
+Cuir greimlín uirthi go beo!
 Chuaigh sí isteach san ionad stórála ar a cromada.
 Bhí loig dhorcha faoina shúile.
 Bhí cuma ní ba dhoimhne ar na roic ina éadan.
@@ -4083,7 +4187,8 @@ Ar éirigh leo?
 Anseo i Nua-Eabhrac bhí crith beag talún againn an tseachtain seo caite.
 B'é scéimhlitheoireacht an chéad rud a rith le daoine sular tháinig deimhniú gurbh iad cúinsí seismeacha ba chúis leis an rud.
 Go cinnte, bheadh Osama Bin Laden ag gáirí.
-Tá idir fhíricí agus bhreithiúnas sa mhéid sin. Seasaim leo araon.
+Tá idir fhíricí agus bhreithiúnas sa mhéid sin.
+Seasaim leo araon.
 Nuair a tugadh mo rogha seomra dom san óstán, d'fhreagraíos go cúramach.
 Bhris meangadh gáire amach ar aghaidh an fháilteora.
 Thuig sí go maith gur iomaí iriseoir a tógadh amach as an óstán ar chláirín.
@@ -4203,8 +4308,10 @@ Ní bheadh gar domhsa nó duitse a bheith ag caint leo.
 Eadar an dá Lá Nollag a bhí ann.
 Leis sin isteach le fear an tí agus cuma scaollmhar air.
 Chuaigh na páistí a luí ach ní raibh fonn codlata orthu.
-Gabh ar d'aghaidh. Bí i do shuí.
-Goidé an duine atá ann? Girseach.
+Gabh ar d'aghaidh.
+Bí i do shuí.
+Goidé an duine atá ann?
+Girseach.
 Amach as mo bhealach leat!
 Cé leis an gasúr?
 Sin an rud a thug an bealach mé.
@@ -4288,7 +4395,8 @@ Thiocfadh léi gáire a dhéanamh agus sin a mbeadh de.
 Ní raibh an fear sin ach ar shon grinn.
 Ní mhilleann dea-ghlór fiacail.
 Níl dada le gnóthú ar a bheith easumhal don té a bhfuil tú ina mhuinín.
-Goidé mar atá sibh? - Goidé mar bheimis ach mar tí tú féin?
+Goidé mar atá sibh?
+- Goidé mar bheimis ach mar tí tú féin?
 Tá lán na lámh os ár gcoinne.
 Cad chuige a raibh tú domh?
 Ba chóir duit bheith ag caint le do mhacasamhail féin eile.
@@ -4321,7 +4429,8 @@ Bhí a dhá shúil dearg ar mhéad is a bhí caointe aici.
 Sin fáth mo chaointe.
 Níl a fhios agam goidé a dhéanfainn ach go bé thú.
 Ní bhfuair siad aon ghreim le níl a fhios agam cá huair.
-Ba dhoiligh a ghabháil chun faoiside. Ina dhiaidh sin, dar leis féin go gcaithfeadh sé an gealltanas a chomhlíonadh.
+Ba dhoiligh a ghabháil chun faoiside.
+Ina dhiaidh sin, dar leis féin go gcaithfeadh sé an gealltanas a chomhlíonadh.
 Ní raibh gar leis cur ina n-éadan.
 Cuireadh glais lámh air.
 Bhí sé eadar dhá chómhairle cé acu a bhéarfadh sé leis an príosúnach nó a ligfeadh sé a cheann leis.
@@ -4348,10 +4457,12 @@ Beidh mise anseo fá do choinne ag teacht duit.
 A dh'iarraidh mná nach raibh toil aici do.
 Druid do bhéal ó do chuid amaidí.
 Más gaolmhar ní cosúil.
-Tá an meán oíche ann. Slán codlata agaibh.
+Tá an meán oíche ann.
+Slán codlata agaibh.
 Bíodh a fhios agat nach só ar bith atá i ndán duit ar an choigrích.
 Bhí aige le Babaí a phósadh.
-Bhí siad ag siúl leo go brúite tostach. Níorbh é sin do Shéimí é, bhí sé óg lúfar gasta.
+Bhí siad ag siúl leo go brúite tostach.
+Níorbh é sin do Shéimí é, bhí sé óg lúfar gasta.
 Chuaigh sé ar a cheithre boinn.
 Bhí a chár á ghreadadh ar a chéile le fuacht.
 Simléirí arda dubha ag teilgean toite sa spéir.
@@ -4377,14 +4488,16 @@ An bhfuil do sháith agat?
 'Bhfuil a fhios agat goidé mo chomhairlese duit?
 Ná blais aon deor den bheoir mhallaithe le do lá.
 Is cuma dá mbíodh siad ag magadh ort go dtiteadh an cár astu.
-Mo chreach agus mo chrá gan mé chomh hóg leatsa inniu. Chaithfinn saol nár chaith mé.
+Mo chreach agus mo chrá gan mé chomh hóg leatsa inniu.
+Chaithfinn saol nár chaith mé.
 Ba róbheag a shamhail mé go n-imeoinn mar a d'imigh mé.
 Ní raibh acu ach mé.
 Thug siad scoil agus léann domh ar feadh a n-acmhainne.
 Is maith is cuimhin liom an tráthnóna a d'imigh mé.
 Ba é sin an t-amharc deireanach a fuair mé orthu.
 Níl léamh nó scríobh nó inse béil ar an ghrá a thug mise don chailín udaí.
-Ná bím ag caoineadh! Bíodh foighid agam!
+Ná bím ag caoineadh!
+Bíodh foighid agam!
 Ní raibh eagla le cur orm.
 Síleann tú an cineál seo cainte a bheith iontach ag mo leithéidse.
 Bhí mise ar feadh míosa ar mo sheachnadh.
@@ -4421,7 +4534,8 @@ Bheadh sé uilig thart anois agus bheinn as buaireamh.
 Is aige atá ábhar na ndeor.
 Bhí an baile mór fá chupla céad míle dóibh.
 Tógadh sa doras ag a chéile iad.
-D'éist sí. Ní raibh ní ba mhó le mothachtáil.
+D'éist sí.
+Ní raibh ní ba mhó le mothachtáil.
 Dar le Babaí gurbh é a ceart an glór cinn sin a aithne, ach ní raibh dul aici smaoineamh cá háit a gcuala sí é.
 Bhí lúcháir mhór ar Bhabaí roimhe.
 Cá raibh sé le fada riamh?
@@ -4440,9 +4554,8 @@ Níl gar a bheith ag caint.
 Nocht an tEargal.
 Bhí sé ag gabháil ó sholas de.
 Bhí truaigh aige dóibh, ach truaigh gan tarrtháil a bhí inti.
-Níl feidhm orm aon lá oibre a dhéanamh le mo sholas. Tá mé i mo sháith den tsaol.
+Níl feidhm orm aon lá oibre a dhéanamh le mo sholas.
+Tá mé i mo sháith den tsaol.
 Plátaí airgid a bhainfeadh an t-amharc as an tsúil agat.
 Ní raibh dul ag aon duine a aithne.
 Ba é sin mo ghnóithe an bealach.
-
-Execution time: 0.305 seconds

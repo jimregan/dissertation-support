@@ -172,9 +172,9 @@ An féidir liom íoc le cárta creidmheasa<SPLIT>?
 An gcaitheann tú siúcra<SPLIT>?
 An gcaitheann tú tobac<SPLIT>?
 An gceannóidh mé buidéal fíona<SPLIT>?
-An gceartófá m'obair bhaile<SPLIT>?
+An gceartófá m'<SPLIT>obair bhaile<SPLIT>?
 An gcreideann tú ar Dhia<SPLIT>?
-An gcuimhin le d'athair na laethanta sin<SPLIT>?
+An gcuimhin le d'<SPLIT>athair na laethanta sin<SPLIT>?
 Beidh an ghaoth aduaidh ag séideadh<SPLIT>.
 Beidh an ghaoth aneas ag séideadh<SPLIT>.
 Beidh an ghaoth aniar ag séideadh<SPLIT>.
@@ -226,7 +226,7 @@ An t-athair ónar thóg sé an nós sin<SPLIT>.
 An tart nach féidir liom a chloí<SPLIT>.
 An tusa mo dhaidí<SPLIT>?
 An té a chuireann san earrach<SPLIT>, bainfidh sé san fhómhar<SPLIT>.
-An í sin an bhean a d'imigh uait<SPLIT>?
+An í sin an bhean a d'<SPLIT>imigh uait<SPLIT>?
 An úsáideann tú an tIdirlíon<SPLIT>?
 Bhí an-chraic againn<SPLIT>.
 Tá an-Ghaeilge aici<SPLIT>.
@@ -314,14 +314,14 @@ Ba cheart dom imeacht anois<SPLIT>.
 Ba cheart dó bheith sa bhaile in áit bheith ag ól i dtithe tábhairne<SPLIT>.
 Ba cheart Gaeilge mhaith a bheith ag an té atá ag iarraidh poist ar Raidió na Gaeltachta<SPLIT>.
 Ba cheart go mbeadh Gaeilge mhaith ag an té a chaith an oiread sin ama sa Ghaeltacht<SPLIT>.
-Ba cheart go mbeadh sé sa bhaile anois nó d'fhág sé an teach seo uair an chloig ó shin<SPLIT>.
+Ba cheart go mbeadh sé sa bhaile anois nó d'<SPLIT>fhág sé an teach seo uair an chloig ó shin<SPLIT>.
 Ba cheart tógáil ar an deathoil sin<SPLIT>.
 Ba chóir dom imeacht anois<SPLIT>.
 Ba chóir dó bheith sa bhaile in áit bheith ag ól i dtithe tábhairne<SPLIT>.
 Ba chóir dóibh gach uile fhuinneog sa teach a dhúnadh<SPLIT>.
 Ba chóir Gaeilge mhaith a bheith ag an té atá ag iarraidh poist ar Raidió na Gaeltachta<SPLIT>.
 Ba chóir go mbeadh Gaeilge mhaith ag an té a chaith an oiread sin ama sa Ghaeltacht<SPLIT>.
-Ba chóir go mbeadh sé sa bhaile anois nó d'fhág sé an teach seo uair an chloig ó shin<SPLIT>.
+Ba chóir go mbeadh sé sa bhaile anois nó d'<SPLIT>fhág sé an teach seo uair an chloig ó shin<SPLIT>.
 Ba chóir é a ruaigeadh as an tír<SPLIT>.
 Ba ghnách leis dul amach oíche Aoine<SPLIT>.
 Ba léachtóir le matamaitic é<SPLIT>.
@@ -342,7 +342,7 @@ Ba mhaith liom rud éigin a rá ina thaobh sin<SPLIT>.
 Ba mhaith liom tú a chur in aithne don Uachtarán<SPLIT>.
 Seo an duine ar tugadh an t-airgead dó<SPLIT>.
 Ba mhaith liom é seo a rá go han-soiléir<SPLIT>.
-Ba mhór cúis na Gaeilge le m'athair<SPLIT>.
+Ba mhór cúis na Gaeilge le m'<SPLIT>athair<SPLIT>.
 Ba sa bhliain 1976 a cuireadh pionós an bháis ar ceal<SPLIT>.
 Ba thír bhocht í Éire fadó<SPLIT>.
 Ba í Gaeilge seachas Béarla an teanga a labhair siad<SPLIT>.
@@ -359,7 +359,7 @@ Bainfidh sí an ceann díot má fheiceann sí thú<SPLIT>!
 Cad atá scríofa ag barr an leathanaigh<SPLIT>?
 Bean ghránna í<SPLIT>.
 Beag an baol go n-aimseoidh sí rud ar bith ansin<SPLIT>.
-Cé a d'fhág an beart mór irisí anseo<SPLIT>?
+Cé a d'<SPLIT>fhág an beart mór irisí anseo<SPLIT>?
 Beidh ort íoc as páirceáil ar thaobh na sráide<SPLIT>.
 Beidh an conradh uaim i scríbhinn<SPLIT>.
 Beidh an obair níos éasca tar éis tamaill<SPLIT>.
@@ -369,7 +369,7 @@ Beidh an tionscadal críochnaithe i gceann bliana<SPLIT>.
 Beidh cead agat an scrúdú a dhéanamh an athuair<SPLIT>.
 Beidh cruinniú againn amárach<SPLIT>.
 Beidh cóisir againn an tseachtain seo chugainn<SPLIT>.
-Beidh d'athair ina shláinte arís sul i bhfad<SPLIT>.
+Beidh d'<SPLIT>athair ina shláinte arís sul i bhfad<SPLIT>.
 Beidh de cheart ag an pharlaimint an buiséad a leasú<SPLIT>.
 Beidh deireadh leis sul i bhfad<SPLIT>.
 Beidh deoch againn i dteach tábhairne in aice láimhe<SPLIT>.
@@ -432,7 +432,7 @@ Bhuail mé leis agus mé i nGaillimh<SPLIT>.
 Bhuail mé leis an Taoiseach<SPLIT>, agus bhuail mé leis an Uachtarán chomh maith<SPLIT>.
 Bhuail mé léi ar an tsráid<SPLIT>.
 Bhuail siad umam ar an bhóthar<SPLIT>.
-Bhuail sé a éide uime agus d'imigh<SPLIT>.
+Bhuail sé a éide uime agus d'<SPLIT>imigh<SPLIT>.
 Bhuail sé mé<SPLIT>.
 Bhuail taom croí é<SPLIT>.
 Bhí a cheann cromtha<SPLIT>.
@@ -532,7 +532,7 @@ Bhí sé ag cuimilt a tóna<SPLIT>.
 Bhí sé ag cur fearthainne aréir<SPLIT>.
 Bhí sé ag fanacht ag doras an tí<SPLIT>.
 Bhí sé ag tiomáint ar luas ard<SPLIT>.
-Bhí sé an-aisteach bualadh le m'athair don chéad uair<SPLIT>.
+Bhí sé an-aisteach bualadh le m'<SPLIT>athair don chéad uair<SPLIT>.
 Bhí sé cromtha ar a dheasc<SPLIT>.
 Bhí sé deacair síocháin a choimeád i sochaí scoilte Thuaisceart na hÉireann<SPLIT>.
 Bhí sé ina sheasamh ag an bheár<SPLIT>.
@@ -544,7 +544,7 @@ Bhí sé sin ar eolas againn ón fhaisnéis a fuair muid roimh ré<SPLIT>.
 Bhí sí ag tabhairt amach faoi na fuinneoga briste<SPLIT>.
 Bhí sí ar buile nuair a chuala sí nach raibh an obair déanta<SPLIT>.
 Bhí sí do mo bhearradh<SPLIT>.
-Bhí sí lách i dtús báire ach d'athraigh sí an port tar éis tamaill<SPLIT>.
+Bhí sí lách i dtús báire ach d'<SPLIT>athraigh sí an port tar éis tamaill<SPLIT>.
 Bhí sí míshásta leis na torthaí<SPLIT>.
 Bhí timpiste aige<SPLIT>.
 Bhí triúr iníonacha ag an rí<SPLIT>.
@@ -652,7 +652,7 @@ Cad é atá de dhíth ort<SPLIT>?
 Cad é do dháta breithe<SPLIT>?
 Cad é do thuairim<SPLIT>?
 Cad é leigheas na faidhbe<SPLIT>?
-Cad é mar a d'éirigh leat<SPLIT>?
+Cad é mar a d'<SPLIT>éirigh leat<SPLIT>?
 Cad é mar atá sibh<SPLIT>?
 Cad é mar atá tú<SPLIT>?
 Cad é réiteach na faidhbe<SPLIT>, dar leat<SPLIT>?
@@ -762,7 +762,7 @@ Chuaigh sé leis an pholaitíocht<SPLIT>.
 Chuaigh sí leis an mhúinteoireacht<SPLIT>.
 Chuaigh sí thar lear ag lorg oibre<SPLIT>.
 Chuala sí a ghuth um nóin<SPLIT>.
-Chuala sí an scéal óna máthair a bhí seasca bliain d'aois um an dtaca sin<SPLIT>.
+Chuala sí an scéal óna máthair a bhí seasca bliain d'<SPLIT>aois um an dtaca sin<SPLIT>.
 Chuidigh siad le lear mór daoine<SPLIT>.
 Chuimil sé Sudocrem dá chabhail<SPLIT>.
 Chuir an eachtra sin deireadh leis an oíche<SPLIT>.
@@ -813,7 +813,7 @@ Comhdhéanamh na n-ábhar núicléach<SPLIT>.
 Comhghairdeas ar do bhreithlá<SPLIT>.
 Comhghairdeas leat<SPLIT>!
 Conas a bheidh tú ag taisteal<SPLIT>?
-Conas a d'aimsigh tú an áit<SPLIT>?
+Conas a d'<SPLIT>aimsigh tú an áit<SPLIT>?
 Conas a dhéileálfaidh an rialtas le fadhb na dífhostaíochta<SPLIT>?
 Conas a dhéileálfaidh siad le dramhaíl teaghlaigh<SPLIT>?
 Conas a iompraíonn tú tú féin i gcomhluadar na banríona<SPLIT>?
@@ -841,7 +841,7 @@ Tá cuid den airgead fós fágtha<SPLIT>.
 Cuideoidh na habairtí samplacha leat na focail a fhí isteach i do chuid cainte go nádúrtha<SPLIT>.
 Cuidíonn muid le daoine gan dídean<SPLIT>.
 Tá cuimhne an ríomhaire ídithe<SPLIT>.
-Cuimhním siar ar laethanta m'óige<SPLIT>.
+Cuimhním siar ar laethanta m'<SPLIT>óige<SPLIT>.
 Cuir aithne ar Ghaeltacht Dhún na nGall<SPLIT>.
 Cuir an cupán ar an tábla<SPLIT>.
 Cuir an litir sa phost<SPLIT>, le do thoil<SPLIT>.
@@ -859,7 +859,7 @@ Cuir suas ar an tseilf é<SPLIT>.
 Cuir síos ar an urlár é<SPLIT>.
 Cuireadh an scoil ar bun i 1990<SPLIT>.
 Cuireadh an turas ar ceal de bharr drochaimsire<SPLIT>.
-Cuireadh beirt fhear fiche bliain d'aois i bpríosún<SPLIT>.
+Cuireadh beirt fhear fiche bliain d'<SPLIT>aois i bpríosún<SPLIT>.
 Cuireadh cosc ar chaitheamh tobac i dtithe tábhairne<SPLIT>.
 Cuireadh fáilte romham<SPLIT>.
 Cuireadh mhoill bhreise air<SPLIT>.
@@ -872,7 +872,7 @@ Cuirfear amárach é<SPLIT>.
 Cuirfidh mé glaoch ar na Gardaí<SPLIT>.
 Cuirfidh mé glaoch ort<SPLIT>.
 Cuirfidh mé ríomhphost chugat<SPLIT>.
-Cuirfimid d'ordú chun bealaigh laistigh de thrí lá oibre<SPLIT>.
+Cuirfimid d'<SPLIT>ordú chun bealaigh laistigh de thrí lá oibre<SPLIT>.
 Cuirimis fáilte roimh an bhliain úr<SPLIT>.
 Cuirtear an saothar i leith Leonardo da Vinci<SPLIT>.
 Cuirtear meitreo ar thraein faoi thalamh<SPLIT>.
@@ -900,7 +900,7 @@ Cá bhfuil tú ag fanacht<SPLIT>?
 Cá bhfuil tú i do chónaí<SPLIT>?
 Cá bhfuil tú i do shuí<SPLIT>?
 Cá bhfuil tú<SPLIT>?
-Cá fhad a d'fhan tú sa Fhrainc<SPLIT>?
+Cá fhad a d'<SPLIT>fhan tú sa Fhrainc<SPLIT>?
 Cá fhad a thógfaidh sé orthu<SPLIT>?
 Cá háit a raibh tú<SPLIT>?
 Cá liacht uair a theip orthu<SPLIT>?
@@ -908,7 +908,7 @@ Cá mbeidh muid ag dul<SPLIT>?
 Cá mbíonn sibh ag siopadóireacht<SPLIT>?
 Cá mhinice a fheiceann tú í<SPLIT>?
 Cá mhéad a chonaic tú<SPLIT>?
-Cá mhéad a d'íoc tú<SPLIT>?
+Cá mhéad a d'<SPLIT>íoc tú<SPLIT>?
 Cá mhéad airgid atá uait<SPLIT>?
 Cá mhéad atá agat<SPLIT>?
 - Trí cinn<SPLIT>.
@@ -916,14 +916,14 @@ Cá mhéad atá ar bhearradh gruaige<SPLIT>?
 Cá mhéad carr atá aige<SPLIT>?
 Cá mhéad duine a bhí ann<SPLIT>?
 Cá mhéad é an t-iomlán<SPLIT>?
-An bhfuil aon cháilíocht tríú leibhéal agat<SPLIT>?.
+An bhfuil aon cháilíocht tríú leibhéal agat<SPLIT>?<SPLIT>.
 Cár fhoghlaim tú do chuid Gaeilge<SPLIT>?
 Cár fhág tú an carr<SPLIT>?
 Cár imigh sé<SPLIT>?
 Cár rugadh thú<SPLIT>?
 Cár tógadh thú<SPLIT>?
 Cé a bhí leat<SPLIT>?
-Cé a d'íocfadh airgead ar éadaí a bhí déanta chomh dona sin<SPLIT>?
+Cé a d'<SPLIT>íocfadh airgead ar éadaí a bhí déanta chomh dona sin<SPLIT>?
 Cé a rinne é seo<SPLIT>?
 Cé acu ab fhearr leat<SPLIT>, tae nó caife<SPLIT>?
 Cé acu bealach a roghnófá le haghaidh an líne traenach nua<SPLIT>?
@@ -996,12 +996,12 @@ D'<SPLIT>fhan muid inár luí ar an trá ar feadh píosa<SPLIT>.
 D'<SPLIT>fhan mé sa bhaile an lá ar fad<SPLIT>.
 D'<SPLIT>fhan sé ina shuí<SPLIT>.
 D'<SPLIT>fhan sé tamall ag breathnú ar an seanteach<SPLIT>.
-D'<SPLIT>fhan sé ón ól<SPLIT>, b'in é an príomhrud<SPLIT>.
+D'<SPLIT>fhan sé ón ól<SPLIT>, b'<SPLIT>in é an príomhrud<SPLIT>.
 D'<SPLIT>fhill sé ar Éirinn um Nollaig<SPLIT>.
 D'<SPLIT>fhoghlaim mé Esperanto mar chaitheamh aimsire<SPLIT>.
 D'<SPLIT>fhreagair sí na ceisteanna<SPLIT>.
 D'<SPLIT>fhág mé an scoil agus mé lán dóchais<SPLIT>.
-D'<SPLIT>fhág mé slán ag mo mháthair agus d'imigh mé<SPLIT>.
+D'<SPLIT>fhág mé slán ag mo mháthair agus d'<SPLIT>imigh mé<SPLIT>.
 D'<SPLIT>fhág sé Conamara agus thug Londain air féin<SPLIT>.
 D'<SPLIT>fhág sé go leor de na prátaí ar an tábla<SPLIT>.
 D'<SPLIT>fhág sé nóta ar an tábla<SPLIT>.
@@ -1028,7 +1028,7 @@ D'<SPLIT>ól mé dhá phionta<SPLIT>.
 D'<SPLIT>ól sí as gloine<SPLIT>.
 D'<SPLIT>úsáid mé go minic é<SPLIT>.
 Daoine a bhfuil Gaeilge acu<SPLIT>, mar shampla tusa agus mise<SPLIT>.
-Daoine a d'fhulaing faoin réimeas cumannach<SPLIT>.
+Daoine a d'<SPLIT>fhulaing faoin réimeas cumannach<SPLIT>.
 Daoine a dhéanann talamh slán de mo dhílseacht<SPLIT>.
 Daoine óga is mó a chaitheann drugaí<SPLIT>.
 De bharr an méid eolais atá le fáil<SPLIT>.
@@ -1037,7 +1037,7 @@ De réir mo chuimhne<SPLIT>.
 Dearcadh an phobail i leith na Gaeilge<SPLIT>.
 Deas bualadh leat<SPLIT>.
 Tá sé deich mbomaite chun a deich<SPLIT>.
-Deich scilling san uair a d'íoctaí do na múinteoirí<SPLIT>.
+Deich scilling san uair a d'<SPLIT>íoctaí do na múinteoirí<SPLIT>.
 Deir sé liom nach bhfuil airgead aige<SPLIT>.
 An é seo deireadh an scannáin<SPLIT>?
 Tá sé dhá mhíle ón teach<SPLIT>.
@@ -1061,7 +1061,7 @@ Druid an doras<SPLIT>!
 Duine an-deas is ea é<SPLIT>.
 Duine de na cailíní sin<SPLIT>.
 Dá bhfanfainn go maidin<SPLIT>...
-Dá dhonacht rudaí inniu<SPLIT>, d'fhéadfaidís bheith níos measa amárach<SPLIT>.
+Dá dhonacht rudaí inniu<SPLIT>, d'<SPLIT>fhéadfaidís bheith níos measa amárach<SPLIT>.
 Dá fhad an oíche<SPLIT>, tiocfaidh an mhaidin ar deireadh<SPLIT>.
 Dá laghad airgead atá acu<SPLIT>, is ea is fearr<SPLIT>.
 Dá laghad an t-ualach atá uirthi<SPLIT>, is sásta a bhíonn sí<SPLIT>.
@@ -1137,7 +1137,7 @@ Faoin am a shroich mé an ceann scríbe bhí tuirse orm<SPLIT>.
 Faoiseamh ó stealladh na gréine<SPLIT>.
 Feachtas fógraíochta sna meáin chumarsáide<SPLIT>.
 Fear an hata<SPLIT>.
-Fear atá ar m'aithne<SPLIT>.
+Fear atá ar m'<SPLIT>aithne<SPLIT>.
 Fear na féasóige<SPLIT>.
 Fear éigin eile<SPLIT>.
 Feicfidh mé thú ag a ceathar a chlog<SPLIT>.
@@ -1170,7 +1170,7 @@ Fuair mé glaoch ón iriseoir<SPLIT>.
 Fuair mé lá saoire<SPLIT>.
 Fuair mé é agus é ina luí ar an urlár<SPLIT>.
 Fuair siad faoiseamh ón bhfuacht nuair a chuir siad a lámha timpeall na gcupán te<SPLIT>.
-Fuair siad lear mór d'ábhar pléascach<SPLIT>.
+Fuair siad lear mór d'<SPLIT>ábhar pléascach<SPLIT>.
 Fuair sé greim ar an mhicreafón agus thosaigh ag canadh<SPLIT>.
 Fuair sí bronntanas iontach<SPLIT>.
 Fuair sí bás<SPLIT>.
@@ -1303,7 +1303,7 @@ Is duine saoraigeanta é<SPLIT>.
 Is dócha nach dtiocfaidh mórán daoine<SPLIT>.
 Is dóigh liom go bhfuil an traein ar tí imeacht<SPLIT>.
 Is eisean an duine is saibhre ar dhroim na talún<SPLIT>.
-Is fada m'fhear céile imithe uaim<SPLIT>.
+Is fada m'<SPLIT>fhear céile imithe uaim<SPLIT>.
 Is fear ard é<SPLIT>.
 Is fear dathúil é<SPLIT>.
 Is fear mór cuideachta é<SPLIT>.
@@ -1334,7 +1334,7 @@ Is iomaí duine sa tír seo nach léann leabhar ar bith ó cheann ceann na blian
 Is iomaí post a bhí aige i rith an ama<SPLIT>.
 Is leor focal amháin<SPLIT>.
 Is léir go bhfuil botún déanta againn<SPLIT>.
-Is léir ó na rianta a d'fhág siad ina ndiaidh gur beirt a bhí ann<SPLIT>.
+Is léir ó na rianta a d'<SPLIT>fhág siad ina ndiaidh gur beirt a bhí ann<SPLIT>.
 Is maith an cainteoir poiblí é<SPLIT>.
 Is maith an scéal bleachtaireachta é ina dtarlaíonn an dúnmharú sa chéad alt<SPLIT>.
 Is maith leis súgradh lena chuid bréagán<SPLIT>.
@@ -1404,7 +1404,7 @@ Leanfar den chúrsa sa chéad seimeastar eile<SPLIT>.
 Leathfaidh an bháisteach soir i rith an lae<SPLIT>.
 Lig dom imeacht<SPLIT>!
 Lig sí osna faoisimh nuair a chonaic sí an doras oscailte<SPLIT>.
-Liostáil sé san arm nuair a bhí sé 18 bliain d'aois<SPLIT>.
+Liostáil sé san arm nuair a bhí sé 18 bliain d'<SPLIT>aois<SPLIT>.
 Lá bog a bhí ann<SPLIT>.
 Tá lá breise uaim<SPLIT>.
 Lá báistí a bhí ann<SPLIT>.
@@ -1413,7 +1413,7 @@ Lá éigin an tseachtain seo chugainn<SPLIT>.
 Léacht ar stair na hÉireann<SPLIT>.
 Léim sé thar an bhalla<SPLIT>.
 Léiríonn na habairtí samplacha an dóigh chun na focail a úsáid i gcomhthéacs<SPLIT>.
-Líon mé mo scamhóga d'aer folláin na maidine<SPLIT>.
+Líon mé mo scamhóga d'<SPLIT>aer folláin na maidine<SPLIT>.
 Líon na bhfocal san alt<SPLIT>.
 Maidin mhaith<SPLIT>!
 Maidir le do litir<SPLIT>...
@@ -1633,7 +1633,7 @@ Níl seans aige sa rása<SPLIT>.
 Níl Seapáinis agam<SPLIT>.
 Níl suim agam sa teilifís ar chor ar bith<SPLIT>.
 Níl suim aige in aon rud seachas beoir agus mná<SPLIT>.
-Níl sé ach dhá bhliain d'aois<SPLIT>.
+Níl sé ach dhá bhliain d'<SPLIT>aois<SPLIT>.
 Níl sé an-te sa seomra leapa<SPLIT>.
 Níl sé déanta i gceart agat<SPLIT>.
 Níl sé sa bhaile<SPLIT>, tá sé ag obair<SPLIT>.
@@ -1649,7 +1649,7 @@ Níor chuala mé é sin in aon chor<SPLIT>.
 Níor fhreastail mé ar an chéad imeacht<SPLIT>.
 Níor fhreastail mé ar ollscoil riamh<SPLIT>.
 Níor ith mé mo bhricfeasta go fóill<SPLIT>.
-Níor labhair mé léi ó d'fhág muid an scoil<SPLIT>.
+Níor labhair mé léi ó d'<SPLIT>fhág muid an scoil<SPLIT>.
 Níor léigh mé riamh é<SPLIT>.
 Níor mhaith liom bheith i mo chónaí ann<SPLIT>.
 Níor mhiste dul ann<SPLIT>.
@@ -1689,7 +1689,7 @@ Rinne sé íobairt ar son na tíre<SPLIT>.
 Rinne tú botún sa scrúdú<SPLIT>.
 Rinne tú jab iontach<SPLIT>.
 Rinneadh comhghairdeas leo<SPLIT>.
-Rinneadh rí de nuair a shroich sé 18 mbliana d'aois<SPLIT>.
+Rinneadh rí de nuair a shroich sé 18 mbliana d'<SPLIT>aois<SPLIT>.
 Rith sé isteach sa seomra<SPLIT>.
 Ritheann an abhainn tríd an chathair<SPLIT>.
 Ritheann sí míle gach lá<SPLIT>.
@@ -1731,7 +1731,7 @@ Seo chugat bosca seacláide mar chomhartha buíochais<SPLIT>.
 Seo duine de na daoine nár íoc an táille<SPLIT>.
 Seo duit do chuid airgid ar ais<SPLIT>.
 Seo iad na cáipéisí faoi choinne an chruinnithe<SPLIT>.
-Seo m'fhear céile<SPLIT>.
+Seo m'<SPLIT>fhear céile<SPLIT>.
 Seo Micheál<SPLIT>.
 Seo mo chuid iníonacha<SPLIT>.
 Seo mo mháthair<SPLIT>.
@@ -1760,7 +1760,7 @@ Shúigh an cruinniú an fuinneamh ar fad asam<SPLIT>.
 Sibhse a chuir tús leis an chogadh<SPLIT>.
 Sin briathar Dé<SPLIT>.
 Sin deireadh leis an scéal<SPLIT>, a chairde<SPLIT>.
-Sin iomlán m'eolais ar an ábhar<SPLIT>.
+Sin iomlán m'<SPLIT>eolais ar an ábhar<SPLIT>.
 Sin rud nach bhfeictear go minic<SPLIT>, cailín a ólann beoir<SPLIT>.
 Sin toil Dé<SPLIT>.
 Sin é an duine céanna<SPLIT>.
@@ -1784,7 +1784,7 @@ Taitníonn an pictiúr liom<SPLIT>.
 Taitníonn cailíní liom<SPLIT>.
 Taitníonn sé go mór liom<SPLIT>.
 Tar chugam trasna an tseomra<SPLIT>.
-Tar éis an aighnis ar fad<SPLIT>, d'éirigh linn teacht ar réiteach<SPLIT>.
+Tar éis an aighnis ar fad<SPLIT>, d'<SPLIT>éirigh linn teacht ar réiteach<SPLIT>.
 Tar éis an tsaoil<SPLIT>, is polaiteoir é<SPLIT>, is é a jab é<SPLIT>.
 Tar éis dó cónaí sa Ghearmáin ar feadh dhá bhliain<SPLIT>, tháinig feabhas mór ar a chuid Gearmáinise<SPLIT>.
 Tar éis go raibh sé ina chónaí sa Ghearmáin le dhá bhliain<SPLIT>, níor tháinig feabhas ar bith ar a chuid Gearmáinise<SPLIT>.
@@ -1823,7 +1823,7 @@ Thosaigh an tsláinte ag meath air agus fuair sé bás<SPLIT>.
 Thosaigh daoine ag tuirlingt den traein<SPLIT>.
 Thosaigh siad do mo cheistiú<SPLIT>.
 Thosaigh sí ag baint a cuid éadaí di<SPLIT>.
-Thosaigh sí ag dul ar scoil nuair a bhí sí seacht mbliana d'aois<SPLIT>.
+Thosaigh sí ag dul ar scoil nuair a bhí sí seacht mbliana d'<SPLIT>aois<SPLIT>.
 Thosaigh sí ag tabhairt amach do Shéamus<SPLIT>.
 Thréig a bhean é<SPLIT>.
 Thug an leabhar ábhar machnaimh dom<SPLIT>.
@@ -1833,7 +1833,7 @@ Thug duine éigin dom é<SPLIT>.
 Thug muid faoin obair ar bhonn córasach<SPLIT>.
 Thug mé an botún faoi deara<SPLIT>.
 Thug mé cead dó suí síos<SPLIT>.
-Thug mé cuairt ar m'aintín i Nua-Eabhrac<SPLIT>.
+Thug mé cuairt ar m'<SPLIT>aintín i Nua-Eabhrac<SPLIT>.
 Thug mé faoin aiste agus bhí sí críochnaithe agam i gceann dhá uair an chloig<SPLIT>.
 Thug mé geallúintí nach raibh mé in ann a chomhlíonadh<SPLIT>.
 Thug siad an sliabh orthu féin<SPLIT>.
@@ -1860,7 +1860,7 @@ Tháinig sé chun na tíre i Meitheamh 1922<SPLIT>.
 Tháinig sí amach as an teach<SPLIT>.
 Tháinig sí anall ar cuairt<SPLIT>.
 Tháinig muid i dtrátha a trí a chlog<SPLIT>.
-Thóg sé an carr agus d'imigh leis<SPLIT>.
+Thóg sé an carr agus d'<SPLIT>imigh leis<SPLIT>.
 Thóg sé leathbhliain orm an leabhar a scríobh<SPLIT>.
 Thóg sé scian amach as a phóca<SPLIT>.
 Thóg sé teach<SPLIT>.
@@ -2103,7 +2103,7 @@ Tá mise níos sine ná tusa<SPLIT>.
 Tá mo dheartháir agus mise an-mhór le chéile<SPLIT>.
 Tá moill ar na busanna arís<SPLIT>.
 Tá moill bheag orm<SPLIT>.
-Tá moladh ag dul dó as a fheabhas a d'oibrigh sé<SPLIT>.
+Tá moladh ag dul dó as a fheabhas a d'<SPLIT>oibrigh sé<SPLIT>.
 Tá muid ag athchúrsáil cannaí agus buidéal<SPLIT>, chomh maith le gnáthbhruscar<SPLIT>.
 Tá muid ag dul ar saoire go dtí an Ungáir<SPLIT>.
 Tá muid ag dul ó thuaidh<SPLIT>.
@@ -2161,7 +2161,7 @@ Tá mé chun an fhuinneog a oscailt<SPLIT>.
 Tá mé chun bás a fháil go luath<SPLIT>.
 Tá mé chun éirí as i mbliana<SPLIT>.
 Tá mé faoi bhrú an-mhór<SPLIT>.
-Tá mé fiche bliain d'aois<SPLIT>.
+Tá mé fiche bliain d'<SPLIT>aois<SPLIT>.
 Tá mé fuar a mhamaí<SPLIT>.
 Tá mé fós ag fanacht leis an litir<SPLIT>.
 Tá mé fós beo<SPLIT>.
@@ -2176,7 +2176,7 @@ Tá mé go mór faoi chomaoin agat as an tacaíocht a thug tú dom<SPLIT>.
 Tá mé go mór in éad leat<SPLIT>.
 Tá mé i gcoinne an rúin<SPLIT>.
 Tá mé i lár na cearnóige<SPLIT>.
-Tá mé i m'aonar<SPLIT>.
+Tá mé i m'<SPLIT>aonar<SPLIT>.
 Tá mé i mbun gnó<SPLIT>.
 Tá mé i mo bhall den eagraíocht<SPLIT>.
 Tá mé i mo chónaí ar Bhóthar na Carraige<SPLIT>.
@@ -2259,8 +2259,8 @@ Tá sé a naoi a chlog<SPLIT>, caithfidh mé dul ag obair<SPLIT>.
 Tá sé a trí a chlog<SPLIT>.
 Tá sé ag brath ar a mhinice a chastar na hamhráin<SPLIT>.
 Tá sé ag bun an leathanaigh<SPLIT>.
-Tá sé ag cur báistí<SPLIT>, b'fhearr liom fanacht istigh<SPLIT>.
-Tá sé ag cur báistí<SPLIT>, b'fhearr liom fanacht taobh istigh<SPLIT>.
+Tá sé ag cur báistí<SPLIT>, b'<SPLIT>fhearr liom fanacht istigh<SPLIT>.
+Tá sé ag cur báistí<SPLIT>, b'<SPLIT>fhearr liom fanacht taobh istigh<SPLIT>.
 Tá sé ag cur báistí<SPLIT>.
 Tá sé ag cur sneachta<SPLIT>.
 Tá sé ag dul i bhfeabhas an t-am ar fad<SPLIT>.
@@ -2285,7 +2285,7 @@ Tá sé ceathrú chun a hocht<SPLIT>.
 Tá sé ceathrú go dtí a hocht<SPLIT>.
 Tá sé ceathrú i ndiaidh a hocht<SPLIT>.
 Tá sé ceathrú tar éis a hocht<SPLIT>.
-Tá sé chóir a bheith trí bliana d'aois<SPLIT>.
+Tá sé chóir a bheith trí bliana d'<SPLIT>aois<SPLIT>.
 Tá sé de cheart agat dlíodóir a fháil<SPLIT>.
 Tá sé déanta cheana<SPLIT>.
 Tá sé déanta go maith agat<SPLIT>.
@@ -2339,7 +2339,7 @@ Tá sí ina codladh<SPLIT>.
 Tá sí ina dúiseacht<SPLIT>.
 Tá sí ina suí sa chathaoir<SPLIT>.
 Tá sí pósta<SPLIT>, go bhfios dom<SPLIT>.
-Tá sí tuairim is tríocha bliain d'aois<SPLIT>.
+Tá sí tuairim is tríocha bliain d'<SPLIT>aois<SPLIT>.
 Tá súil agam nach mbeidh báisteach ann<SPLIT>.
 Tá súil agam nach mbeidh orm plé leis na daoine sin go deo arís<SPLIT>.
 Tá súil agam nár ghoid tú an t-airgead sin go léir<SPLIT>.
@@ -2458,7 +2458,7 @@ Tá mé ag obair i mbanc<SPLIT>.
 An bhfuil Séamas anseo<SPLIT>?
 An bhfuil tú pósta<SPLIT>?
 An bhfuil clann agat<SPLIT>?
-Tá sé sé bliana d'aois<SPLIT>.
+Tá sé sé bliana d'<SPLIT>aois<SPLIT>.
 Dia dhuit<SPLIT>, a Dhónaill<SPLIT>.
 Conas tá cúrsaí<SPLIT>?
 An bhfuil tú fós i do chónaí in árasán<SPLIT>?
@@ -2470,7 +2470,7 @@ Tá leanbh óg againn le bliain<SPLIT>.
 An bhfuil clann mhór agat<SPLIT>, a Shéamais<SPLIT>?
 Tá beirt mhac agus iníon againn<SPLIT>.
 Cén aois iad<SPLIT>?
-Tá Pól sé bliana d'aois agus tá dhá bhliain ag Nuala<SPLIT>.
+Tá Pól sé bliana d'<SPLIT>aois agus tá dhá bhliain ag Nuala<SPLIT>.
 Tá an bheirt acu ar scoil<SPLIT>.
 Tá carr ag Máire<SPLIT>.
 Tá teach ag Seán i gConamara<SPLIT>.
@@ -2479,7 +2479,7 @@ Tá rothar nua aige<SPLIT>.
 Tá teach deas acu<SPLIT>.
 An bhfuil carr aici<SPLIT>?
 An bhfuil nóiméad agat<SPLIT>?
-Tá Toyota ag m'athair ach tá Ford agamsa<SPLIT>.
+Tá Toyota ag m'<SPLIT>athair ach tá Ford agamsa<SPLIT>.
 Tá feirm againne<SPLIT>.
 Tá a fhios agam<SPLIT>.
 Níl a fhios agam<SPLIT>.
@@ -2490,7 +2490,7 @@ Tá leanbh aici le mí<SPLIT>.
 Tá sé marbh le fada<SPLIT>.
 Tá Liam pósta le bliain anuas<SPLIT>.
 Do lucht féachana os cionn 18 bliain<SPLIT>.
-Leanaí faoi bhun deich mbliana d'aois<SPLIT>.
+Leanaí faoi bhun deich mbliana d'<SPLIT>aois<SPLIT>.
 Tá beirt chlainne againn<SPLIT>.
 Tá triúr clainne ag mo dheirfiúr<SPLIT>.
 A chlann mhac<SPLIT>.
@@ -2507,7 +2507,7 @@ Seo é mo mhac Seán<SPLIT>.
 Cén chaoi a bhfuil tú<SPLIT>, a Sheáin<SPLIT>?
 Go maith<SPLIT>, go raibh maith agat<SPLIT>.
 Cén aois thú<SPLIT>, a Sheáin<SPLIT>?
-Tá mé ocht mbliana d'aois<SPLIT>.
+Tá mé ocht mbliana d'<SPLIT>aois<SPLIT>.
 Tá mé go dona<SPLIT>.
 Cén t-ainm atá ort<SPLIT>?
 Bríd atá orm<SPLIT>.
@@ -2515,8 +2515,8 @@ Séamas atá ormsa<SPLIT>.
 Seo í Bríd<SPLIT>.
 Seo é Séamas<SPLIT>.
 Cén aois thú<SPLIT>?
-Naoi mbliana d'aois<SPLIT>.
-Tá mé sé bliana déag d'aois<SPLIT>.
+Naoi mbliana d'<SPLIT>aois<SPLIT>.
+Tá mé sé bliana déag d'<SPLIT>aois<SPLIT>.
 Dhá bhliain agus tríocha<SPLIT>.
 Naoi mbliana is dhá scór<SPLIT>.
 Cúig bliana agus caoga<SPLIT>.
@@ -2583,10 +2583,10 @@ Tá sé in aice leis an siopa<SPLIT>.
 Haigh<SPLIT>, an dtagann tú go dtí an grúpa spraoi seo 'chuile choicís<SPLIT>?
 An é sin do mhac<SPLIT>?
 Is é seo mo mhac Dara<SPLIT>.
-Tá sé dhá bhliain d'aois<SPLIT>.
+Tá sé dhá bhliain d'<SPLIT>aois<SPLIT>.
 Chas mé ar Dhara uair amháin cheana<SPLIT>.
 Dia dhuit<SPLIT>, a Dhara<SPLIT>.
-Tá beirt agamsa anseo<SPLIT>, Mícheál atá sa gcúinne ansin agus seo í m'iníon Siubhán<SPLIT>.
+Tá beirt agamsa anseo<SPLIT>, Mícheál atá sa gcúinne ansin agus seo í m'<SPLIT>iníon Siubhán<SPLIT>.
 Dia dhuit<SPLIT>, a Shiubhán<SPLIT>.
 Tá deartháir ag Dara ach tá sé sa mbunscoil anois<SPLIT>.
 An bhfuil aithne agat ar mo bhean<SPLIT>?
@@ -2625,9 +2625,9 @@ Tá triúr gasúr agam<SPLIT>.
 An bhfuil praghas speisialta agaibh do chlann<SPLIT>?
 Tá cúig euro ar bhallraíocht do dhuine fásta<SPLIT>.
 Tá dhá euro ar bhallraíocht do mhic léinn agus tá sé saor in aisce do pháistí óga<SPLIT>.
-An bhfuil d'fhear céile libh sa Spidéal<SPLIT>?
+An bhfuil d'<SPLIT>fhear céile libh sa Spidéal<SPLIT>?
 Is baintreach mé<SPLIT>.
-Fuair m'fhear céile bás dhá bhliain ó shin<SPLIT>.
+Fuair m'<SPLIT>fhear céile bás dhá bhliain ó shin<SPLIT>.
 Is é seo an chéad uair go bhfuil mise agus mo chlann ar saoire le chéile ó shin<SPLIT>.
 Bail ó Dhia oraibh<SPLIT>.
 Tá súil agam go mbainfidh sibh taitneamh as bhur saoire anseo<SPLIT>.
@@ -2640,7 +2640,7 @@ Is leasdeirfiúracha iad<SPLIT>.
 Cé mhéad deartháir is deirfiúr atá agat<SPLIT>?
 Tá beirt dheartháir agus deirfiúr amháin agam<SPLIT>.
 Níl deartháir ná deirfiúr agam<SPLIT>.
-Seo í m'iníon Eilís<SPLIT>.
+Seo í m'<SPLIT>iníon Eilís<SPLIT>.
 Seo é mo mhac Mícheál<SPLIT>.
 Seo iad mo thuismitheoirí<SPLIT>.
 An bhfuil aithne agat ar mo dheartháir<SPLIT>?
@@ -2684,7 +2684,7 @@ Tá sí díreach ar aghaidh<SPLIT>.
 An dara doras ar chlé<SPLIT>.
 Tá mé ag roinnt árasáin le cara liom<SPLIT>.
 Tá mé ag roinnt tí le triúr eile<SPLIT>.
-Tá mé i mo chónaí i m'aonar<SPLIT>.
+Tá mé i mo chónaí i m'<SPLIT>aonar<SPLIT>.
 Tá mé i mo chónaí liom féin<SPLIT>.
 Tá sé daor go leor<SPLIT>.
 Níl sé ródhaor<SPLIT>.
@@ -2768,7 +2768,7 @@ An dtéann tú abhaile go déanach<SPLIT>?
 Tá sé sin imithe cheana féin<SPLIT>.
 Tá sé sin déanta cheana féin<SPLIT>.
 Tá sé sin ite agam cheana féin<SPLIT>.
-Tá a fhios agam gur ag a dó a chlog atá m'agallamh ar siúl<SPLIT>.
+Tá a fhios agam gur ag a dó a chlog atá m'<SPLIT>agallamh ar siúl<SPLIT>.
 Tá brón orm má tá mé róluath<SPLIT>.
 Cónaím cúpla ciliméadar soir an bóthar<SPLIT>.
 Níl tú róluath<SPLIT>.
@@ -2795,7 +2795,7 @@ Níl ag éirí go rómhaith liom<SPLIT>.
 Dia dhuit<SPLIT>.
 An féidir liom labhairt le Seán<SPLIT>?
 Céard is féidir liom a dhéanamh duit<SPLIT>?
-Chonaic mé d'fhógra sa bpáipéar agus tá suim agam sa bpost<SPLIT>.
+Chonaic mé d'<SPLIT>fhógra sa bpáipéar agus tá suim agam sa bpost<SPLIT>.
 Gabh mo leithscéal<SPLIT>.
 An féidir leat é sin a rá aríst<SPLIT>, le do thoil<SPLIT>?
 Chonaic mé an fógra a bhí agaibh sa bpáipéar agus tá suim agam sa bpost<SPLIT>.
@@ -2821,8 +2821,8 @@ Níos moille<SPLIT>, le do thoil<SPLIT>!
 Tá blas Chonamara ar do chuid Gaeilge<SPLIT>.
 An as an gceantar seo thú<SPLIT>?
 Is as Contae Mhuineacháin mé féin<SPLIT>.
-Is as Ros Muc m'fhear<SPLIT>.
-Is bean tí mé agus ní bhíonn mórán seans agam labhairt le daoine eile seachas m'fhear agus mo chlann<SPLIT>.
+Is as Ros Muc m'<SPLIT>fhear<SPLIT>.
+Is bean tí mé agus ní bhíonn mórán seans agam labhairt le daoine eile seachas m'<SPLIT>fhear agus mo chlann<SPLIT>.
 Cén obair a dhéanann tú<SPLIT>?
 Is clódóir mé<SPLIT>.
 Tá mé ag obair in Indreabhán<SPLIT>.
@@ -2830,7 +2830,7 @@ Is post sealadach é<SPLIT>, ach is banaltra í mo bhean agus is post buan é si
 Mar sin tá muid ceart go leor<SPLIT>.
 Rugadh agus tógadh í i Ros an Mhíl<SPLIT>, ach tá cónaí orainn i Leitir Mucú anois<SPLIT>.
 Is as an bhFrainc mé féin<SPLIT>.
-Tá m'fhear dífhostaithe faoi láthair<SPLIT>.
+Tá m'<SPLIT>fhear dífhostaithe faoi láthair<SPLIT>.
 Cén post a bhí aige<SPLIT>?
 Is meicneoir é<SPLIT>.
 Ní maith leis an obair sin níos mó<SPLIT>.
@@ -2998,7 +2998,7 @@ Tá sé ceithre mhíle ón gCeathrú Rua go Ros an Mhíl<SPLIT>.
 Fáilte ar ais go Baile na hAbhann<SPLIT>.
 Tá sé fíordheas a bheith ar ais<SPLIT>.
 An raibh tú ar laethanta saoire<SPLIT>?
-Bhí mé i mBostún ar cuairt ag m'uncail agus m'aintín<SPLIT>.
+Bhí mé i mBostún ar cuairt ag m'<SPLIT>uncail agus m'<SPLIT>aintín<SPLIT>.
 A Pheadair<SPLIT>, nach raibh tú ar saoire le deireanaí i mBostún<SPLIT>?
 Níl mé ach díreach tagtha ar ais<SPLIT>.
 Chaith mé coicís ann<SPLIT>.
@@ -3101,9 +3101,9 @@ Fainic<SPLIT>!
 Fainicigí<SPLIT>!
 Seachain<SPLIT>!
 Seachnaígí<SPLIT>!
-Nigh d'éadan<SPLIT>.
+Nigh d'<SPLIT>éadan<SPLIT>.
 Nígí bhur n-éadain<SPLIT>.
-Cuir síos d'uilleannacha<SPLIT>.
+Cuir síos d'<SPLIT>uilleannacha<SPLIT>.
 Cuirigí bhur n-uilleannacha síos<SPLIT>.
 Bain díot do chaipín<SPLIT>.
 Bainigí díbh bhur gcótaí<SPLIT>.
@@ -3113,7 +3113,7 @@ An mbeidh tú saor anocht<SPLIT>?
 Cén fáth<SPLIT>?
 Ar mhaith leat dul go dtí an phictiúrlann sa gcathair<SPLIT>?
 Tá brón orm<SPLIT>, ach tá tuirse an domhain orm agus tá an aimsir uafásach<SPLIT>.
-Céard faoi thíocht go dtí m'árasán agus a bheith ag breathnú ar an teilifís<SPLIT>?
+Céard faoi thíocht go dtí m'<SPLIT>árasán agus a bheith ag breathnú ar an teilifís<SPLIT>?
 Céard a bheas ar an teilifís anocht<SPLIT>?
 Níl agam ach aeróg<SPLIT>, mar sin ní bhíonn ach RTÉ1<SPLIT>, RTÉ2<SPLIT>, agus TG4 agam sa mbaile<SPLIT>.
 Ar mhaith leat breathnú ar "<SPLIT>7 lá<SPLIT>"<SPLIT>?
@@ -3216,7 +3216,7 @@ Níl aon deirfiúr agam<SPLIT>.
 An bhfuil tú féin agus do dheartháir an-mhór le chéile<SPLIT>?
 Tá sé pósta anois<SPLIT>.
 Tá a bhean ag súil le páiste i gceann cúpla mí<SPLIT>.
-Beidh tú i d'aintín<SPLIT>, mar sin<SPLIT>.
+Beidh tú i d'<SPLIT>aintín<SPLIT>, mar sin<SPLIT>.
 Táim ag súil go mór leis<SPLIT>.
 Cá mhéad duine agaibh a bhí ann<SPLIT>?
 Deichniúr againn ar fad a bhí ann<SPLIT>.
@@ -3257,9 +3257,9 @@ Bhí sibh chomh cosúil lena chéile nuair a bhí sibh beag<SPLIT>!
 Cad é faoi do thuismitheoirí<SPLIT>?
 An réitíonn tú go maith leo siúd<SPLIT>?
 Tá mo thuismitheoirí scartha<SPLIT>.
-Réitím níos fearr le m'athair ná le mo mháthair<SPLIT>.
+Réitím níos fearr le m'<SPLIT>athair ná le mo mháthair<SPLIT>.
 An le do mháthair atá tú i do chónaí<SPLIT>?
-Feicim m'athair go minic<SPLIT>.
+Feicim m'<SPLIT>athair go minic<SPLIT>.
 Triúr agaibh atá sa teach<SPLIT>, mar sin<SPLIT>.
 Tá aintín le mo mháthair ina cónaí linn chomh maith<SPLIT>.
 Bíonn muid ag troid seasta<SPLIT>!
@@ -3539,7 +3539,7 @@ Is breá liom an ceantar agus tá áiseanna maithe ann<SPLIT>.
 As Nua-Eabhrac sna Stáit Aontaithe ó dhúchas mé<SPLIT>.
 Tá mé i mo chónaí sa chathair agus is breá liom an ceantar<SPLIT>.
 Rugadh i mBaile Átha Cliath mé<SPLIT>.
-Is as Béal Feirste do mo mháthair agus m'athair<SPLIT>.
+Is as Béal Feirste do mo mháthair agus m'<SPLIT>athair<SPLIT>.
 Is breá liom bheith i mo chónaí anseo<SPLIT>.
 Tá sé cois farraige ach gar don chathair freisin<SPLIT>.
 Tá mé pósta<SPLIT>.
@@ -3576,7 +3576,7 @@ An bhfuil páistí agat<SPLIT>?
 Agus cén aois atá siad<SPLIT>?
 Tá Eimear seacht mbliana agus tá Dara deich mbliana<SPLIT>.
 An bhfuil páistí agat féin<SPLIT>?
-Tá mac amháin agam<SPLIT>, Stiofán<SPLIT>, tá sé cúig bliana d'aois<SPLIT>.
+Tá mac amháin agam<SPLIT>, Stiofán<SPLIT>, tá sé cúig bliana d'<SPLIT>aois<SPLIT>.
 Cén aois atá sé<SPLIT>?
 Cén aois atá sí<SPLIT>?
 Cén aois atá siad<SPLIT>?
@@ -3602,7 +3602,7 @@ Cén cineál lóistín atá agat<SPLIT>?
 Cá bhfuil tú i do chónaí faoi láthair<SPLIT>?
 Tá mé i mo chónaí i dteach scoite<SPLIT>.
 Tá mé i mo chónaí i dteach leathscoite<SPLIT>.
-Tá mé i mo chónaí i m'aonar<SPLIT>.
+Tá mé i mo chónaí i m'<SPLIT>aonar<SPLIT>.
 Tá mé ag roinnt árasáin le beirt eile<SPLIT>.
 Tá mé ag roinnt tí le cara liom<SPLIT>.
 Cá bhfuil an t-árasán suite<SPLIT>?
@@ -3615,11 +3615,11 @@ Tá sé san eastát nua sin<SPLIT>.
 Tá sé faoin tuath<SPLIT>.
 An bhfuil an t-árasán mór<SPLIT>?
 Tá dhá sheomra codlata ann<SPLIT>, cistin an-deas agus seomra suí an-mhór<SPLIT>.
-An bhfuil tú i do chónaí i d'aonar<SPLIT>?
+An bhfuil tú i do chónaí i d'<SPLIT>aonar<SPLIT>?
 Tá mé ag roinnt an árasáin le cara liom<SPLIT>, Judy<SPLIT>.
 Tá sí an-deas<SPLIT>.
 Cá bhfuil tú féin i do chónaí faoi láthair<SPLIT>?
-Tá mé i mo chónaí i m'aonar i lár na cathrach<SPLIT>.
+Tá mé i mo chónaí i m'<SPLIT>aonar i lár na cathrach<SPLIT>.
 Cá bhfuil an teach suite<SPLIT>?
 Tá sé gar don abhainn<SPLIT>.
 Cé mhéad seomra atá sa teach<SPLIT>?
@@ -3848,7 +3848,7 @@ Níorbh aon ghaisce ná údar mórtais saol an ghnáthoibrí<SPLIT>.
 An-údar dóchais don dtodhchaí is ea é<SPLIT>.
 Ar léigh tú gach ar scríobh na húdair seo<SPLIT>?
 Cad a insíonn seo dúinn faoin údar<SPLIT>?
-Ní údar náire domsa a bheith i m'Éireannach<SPLIT>.
+Ní údar náire domsa a bheith i m'<SPLIT>Éireannach<SPLIT>.
 Cé is údar don saothar sárluachmhar seo<SPLIT>?
 Thiomáin sé go deas réidh<SPLIT>.
 Ní gan údar mar bhí sé tuirseach<SPLIT>.
@@ -3856,7 +3856,7 @@ Ní chuirfidís san ospidéal í gan údar éigin<SPLIT>.
 Tá a fhios agam go maith go bhfuil tú bródúil aisti<SPLIT>, agus údar agat<SPLIT>.
 Ní hé an t-athaontú údar gach oilc<SPLIT>.
 Ar a lán údar<SPLIT>, tá an tír seo deighilte ina dá stát<SPLIT>.
-Beidh a fhios agam ansin an bhfuil údar le m'éad<SPLIT>.
+Beidh a fhios agam ansin an bhfuil údar le m'<SPLIT>éad<SPLIT>.
 An t-údar leis sin ná go raibh sé amuigh i dtuath na tíre<SPLIT>.
 Tá údar againn lena chreidiúint<SPLIT>.
 Cibé cén t-údar a bhí agam leis<SPLIT>...
@@ -3880,7 +3880,7 @@ Leagtar dualgais orainn go reachtúil de bhua ár mballraíochta san Aontas Eorp
 Leagtar srianta ar an nGobharnóir de bhua Acht an Bhainc Ceannais<SPLIT>.
 Tá siad de shíor ina gceap magaidh ag daoine áirithe<SPLIT>.
 Ní mise a chum ná a cheap<SPLIT>.
-Déanann sé ceap magaidh d'Éirinn<SPLIT>.
+Déanann sé ceap magaidh d'<SPLIT>Éirinn<SPLIT>.
 Ise a rinne ceap magaidh dínne agus dár gcreideamh<SPLIT>!
 Tá sé in am aire nua a cheapadh<SPLIT>.
 Bhí sé ina cheap magaidh ag a chomhscoláirí<SPLIT>.
@@ -3905,8 +3905,8 @@ Ghoil sí uisce a cinn<SPLIT>.
 Tháinig uisce lena súile<SPLIT>.
 Cuireann sé uisce le mo shúile<SPLIT>.
 Cuireann sé uisce lena fhiacla<SPLIT>.
-Tá uisce le m'fhiacla cheana féin<SPLIT>!
-Tháinig uisce lena bhfiacla ar mhéad is a bhí d'ocras orthu<SPLIT>.
+Tá uisce le m'<SPLIT>fhiacla cheana féin<SPLIT>!
+Tháinig uisce lena bhfiacla ar mhéad is a bhí d'<SPLIT>ocras orthu<SPLIT>.
 Fásann sí in uisce tanaí<SPLIT>.
 Thit báisteach throm níos deireanaí an tseachtain sin agus tharla tuilte san áit<SPLIT>.
 Ba bheag nár thit sé as a sheasamh leis an radharc a bhí os a chomhair<SPLIT>.
@@ -3936,7 +3936,7 @@ Cheap mé gur sheafóideach an mhaise dúinn a bheith ag argóint<SPLIT>.
 Ba chloíte an mhaise dom é gan comhairle a thabhairt daoibh<SPLIT>.
 B'<SPLIT>amaideach an mhaise domsa an cheist a chur<SPLIT>.
 Ba dona an mhaise dúinn gan a bheith buíoch de<SPLIT>.
-Ba mhaith an mhaise don dream a d'éalaigh<SPLIT>.
+Ba mhaith an mhaise don dream a d'<SPLIT>éalaigh<SPLIT>.
 Más mise an cara is deise duit<SPLIT>, is truacánta an mhaise duit<SPLIT>.
 Rinne duine amháin drannadh liom agus bhraith mé chomh beag le mo lúidín<SPLIT>.
 Bhí mo chuid deartháireacha chomh seang leis an maide<SPLIT>.
@@ -3992,7 +3992,7 @@ Ní raibh an gríoscán glanta<SPLIT>.
 "<SPLIT>Cad atá cearr leat<SPLIT>?<SPLIT>" a scairt Norma-Jean nuair a chaith Rebekka an babhla isteach sa doirteal de ráig<SPLIT>.
 Bhí an pota chomh mór sin go bhféadfá brachán do theach lán bochtán a dhéanamh ann<SPLIT>.
 Lig sí liú ard gáire aisti<SPLIT>.
-Tá d'ordóg ag cur fola<SPLIT>.
+Tá d'<SPLIT>ordóg ag cur fola<SPLIT>.
 Cuir greimlín uirthi go beo<SPLIT>!
 Chuaigh sí isteach san ionad stórála ar a cromada<SPLIT>.
 Bhí loig dhorcha faoina shúile<SPLIT>.
@@ -4015,7 +4015,7 @@ An mbeidh orainn cur suas leis an ngeonaíl seo ar feadh i bhfad<SPLIT>?
 Is bocht liom do scéal<SPLIT>.
 Mhill sí uirthi féin é<SPLIT>.
 D'<SPLIT>ardaigh sí a geansaí chun didín a cíche a shá isteach i mbéal a hiníne<SPLIT>.
-Beidh muid go breá do d'uireasa<SPLIT>.
+Beidh muid go breá do d'<SPLIT>uireasa<SPLIT>.
 An bhfuil lastán agat<SPLIT>?
 Tá spiairí inár measc<SPLIT>.
 An chéad áit a ndeachaigh mé nuair a bhog mé go Beirlín ná lár na cathrach<SPLIT>.
@@ -4049,7 +4049,7 @@ Tá an drochshúil ort<SPLIT>.
 Is é fáth mo shuime sa cheist seo thar cheisteanna eile ná go mbaineann sí liom go pearsanta<SPLIT>.
 Níl siad ina gcónaí ach cúpla míle uaimse<SPLIT>.
 Tá siad ina gcónaí i mbaile darb ainm Sobotka<SPLIT>.
-Caithfidh gur bhuail mé leo uair nó dhó<SPLIT>, ó d'ith muid sna bialanna céanna<SPLIT>.
+Caithfidh gur bhuail mé leo uair nó dhó<SPLIT>, ó d'<SPLIT>ith muid sna bialanna céanna<SPLIT>.
 Chuaigh muid go lár na cathrach ar an bhus céanna<SPLIT>.
 Má bhuail mé leo<SPLIT>, áfach<SPLIT>, ní cuimhin liom é<SPLIT>.
 Is mór an trua dom nach bhfaca mé an dráma riamh<SPLIT>.
@@ -4063,7 +4063,7 @@ Tá an tseirbhís rúnda ag gníomhú in an-chuid tíortha<SPLIT>.
 Bhí sí ag bailiú eolais faoi dhaoine éagsúla<SPLIT>.
 Bhí sí an-ghníomhach i saol na hiriseoireachta i gCathair Nua-Eabhrac<SPLIT>.
 Bhí veain an chomhlachta gháis ag obair sa tsráid<SPLIT>.
-Tá sé ag obair d'ollchomhlacht éigin i Meiriceá<SPLIT>.
+Tá sé ag obair d'<SPLIT>ollchomhlacht éigin i Meiriceá<SPLIT>.
 Bhí cúigear spiairí lonnaithe timpeall na tíre faoi ainmneacha bréige<SPLIT>.
 An rud is mó atá le tabhairt faoi deara ar an dream seo ná chomh hamaitéarach is a bhí siad<SPLIT>.
 Níorbh iontas ar bith dom gur spiaire í<SPLIT>.
@@ -4084,7 +4084,7 @@ I saol dorcha na spiaireachta<SPLIT>, ní féidir bheith cinnte de rud ar bith<S
 D'<SPLIT>fhág sí beirt iníonacha óga ina diaidh nuair a tháinig sí go hÉirinn<SPLIT>.
 Ba bhainisteoir i monarcha éadaí í<SPLIT>.
 Thréig sí a tír dhúchais ar son poist mar fheighlí linbh le teaghlach in Éirinn<SPLIT>.
-Bhí páiste dhá bhliain d'aois acu<SPLIT>.
+Bhí páiste dhá bhliain d'<SPLIT>aois acu<SPLIT>.
 Tosaíonn sí ag obair ag 7<SPLIT>.<SPLIT>30 ar maidin agus críochnaíonn sí ag 11<SPLIT>.<SPLIT>00 istoíche seacht lá in aghaidh na seachtaine<SPLIT>.
 Fara aire a thabhairt don leanbh<SPLIT>, bhí uirthi an teach a ghlanadh<SPLIT>.
 Bhí cúram na cócaireachta<SPLIT>, an níocháin is na hiarnála uirthi<SPLIT>.
@@ -4103,8 +4103,8 @@ Bhain na híomhánna bíogadh asam lena gcuid áilleachta aduaine<SPLIT>.
 Rugadh Benoît Mandelbrot sa Pholainn<SPLIT>, i 1924<SPLIT>.
 Níorbh aon ionadh gurbh é an saol acadúil a bhí i ndán don bhuachaill óg<SPLIT>, agus a mháthair ina dochtúir leighis<SPLIT>.
 Bhí a uncailí ag teagasc matamaitice dó<SPLIT>.
-Nuair a bhí sé 11 bliain d'aois<SPLIT>, bhog an teaghlach go léir go dtí an Fhrainc<SPLIT>.
-Bhog siad go dtí an Fhrainc mar is maith a d'airigh siad an chontúirt a bhí ann do Ghiúdaigh na Polainne<SPLIT>.
+Nuair a bhí sé 11 bliain d'<SPLIT>aois<SPLIT>, bhog an teaghlach go léir go dtí an Fhrainc<SPLIT>.
+Bhog siad go dtí an Fhrainc mar is maith a d'<SPLIT>airigh siad an chontúirt a bhí ann do Ghiúdaigh na Polainne<SPLIT>.
 Bhí cúrsaí contúirteach tar éis urghabháil chumhachta na Naitsithe sa Ghearmáin<SPLIT>.
 Mar is eol dúinn anois<SPLIT>, níor stop na Naitsithe leis an bPolainn<SPLIT>.
 Níorbh fhada go raibh an Fhrainc ina seilbh ag na Naitsithe chomh maith<SPLIT>.
@@ -4127,13 +4127,13 @@ Is trua nach raibh "<SPLIT>JFK moment<SPLIT>" ag ár nglúin féin<SPLIT>, mar a
 Deir gach éinne a bhí beo i 1963 gur cuimhin leo go cruinn ala an ama ar chuala siad faoi dhúnmharú an Uachtaráin John F<SPLIT>. Kennedy<SPLIT>.
 Faraor go ndúirt mé a leithéid<SPLIT>.
 Is beag duine ar domhan gur cuimhin leis lá an dhúnmharaithe sin<SPLIT>.
-Beagnach deich mbliana ó shin d'éirigh mé as an leaba in árasán beag<SPLIT>.
+Beagnach deich mbliana ó shin d'<SPLIT>éirigh mé as an leaba in árasán beag<SPLIT>.
 Madison<SPLIT>, ardchathair Wisconsin<SPLIT>.
 Bhí mé ag críochnú mo thráchtas Ph<SPLIT>.<SPLIT>D<SPLIT>.
 Bhí mé ag réitiú do mo bhainis<SPLIT>, nach raibh ach aon lá déag romham<SPLIT>.
 Bhí aíonna le bheith ag teacht isteach as an iliomad stát eile sna Stáit Aontaithe<SPLIT>.
 Chuireas an raidió ar siúl<SPLIT>, mar ab iondúil<SPLIT>, chun nuachtchlár na maidine a chloisteáil<SPLIT>.
-Bhíothas ag fógairt go raibh eitleán tar éis dochar a dhéanamh d'fhoirgneamh i Nua-Eabhrac<SPLIT>.
+Bhíothas ag fógairt go raibh eitleán tar éis dochar a dhéanamh d'<SPLIT>fhoirgneamh i Nua-Eabhrac<SPLIT>.
 Bhí sé díreach roimh a naoi a chlog i Nua-Eabhrac<SPLIT>.
 "<SPLIT>Amadán éigin ag eitilt turasóirí timpeall Manhattan agus a chuaigh róchóngarach don fhoirgneamh<SPLIT>"<SPLIT>, a shíleas<SPLIT>.
 Bhí na láithreoirí teilifíse den tuairim chéanna<SPLIT>.
@@ -4144,7 +4144,7 @@ Cén fáth an raibh deatach ag teacht ó dhá thaobh an fhoirgnimh<SPLIT>?
 Ní fhéadfadh eitleán dul an bealach ar fad tríd an bhfoirgneamh<SPLIT>, an bhféadfadh<SPLIT>?
 Agus dá mba bhuama é<SPLIT>, caithfidh gur cheann ollmhór é a phléascfadh an foirgneamh amach ar dhá thaobh<SPLIT>.
 Agus le cois sin<SPLIT>, dá mba bhuama é<SPLIT>, cén fáth nár pléascadh gach taobh<SPLIT>, seachas an dá thaobh amháin<SPLIT>?
-Glanadh na ceisteanna aisteacha seo amach as m'intinn go tobann<SPLIT>.
+Glanadh na ceisteanna aisteacha seo amach as m'<SPLIT>intinn go tobann<SPLIT>.
 Dhá nóiméad tar éis a naoi<SPLIT>, phléasc dara foirgneamh an Lárionad Trádála<SPLIT>.
 Bhí Meiriceá faoi ionsaí<SPLIT>, go cinnte<SPLIT>.
 Is cosúil go raibh na hionsaithe seo á mbeartú ag saighdiúirí Osama Bin Laden le cúpla bliain<SPLIT>.
@@ -4189,7 +4189,7 @@ B'<SPLIT>é scéimhlitheoireacht an chéad rud a rith le daoine sular tháinig d
 Go cinnte<SPLIT>, bheadh Osama Bin Laden ag gáirí<SPLIT>.
 Tá idir fhíricí agus bhreithiúnas sa mhéid sin<SPLIT>.
 Seasaim leo araon<SPLIT>.
-Nuair a tugadh mo rogha seomra dom san óstán<SPLIT>, d'fhreagraíos go cúramach<SPLIT>.
+Nuair a tugadh mo rogha seomra dom san óstán<SPLIT>, d'<SPLIT>fhreagraíos go cúramach<SPLIT>.
 Bhris meangadh gáire amach ar aghaidh an fháilteora<SPLIT>.
 Thuig sí go maith gur iomaí iriseoir a tógadh amach as an óstán ar chláirín<SPLIT>.
 Suas liom go seomra 1026 ar bharr an tí<SPLIT>.
@@ -4218,14 +4218,14 @@ Ciúnas na reilige a bhí le cluinstean ó na blagadóirí faoi<SPLIT>...
 Bhí an cás ina phríomhscéal ag na meáin fhadbhunaithe ar feadh breis is seachtaine<SPLIT>.
 Is beag sásamh a bhaintear as athchúrsáil a dhéanamh ar ábhar atá ar fáil in áiteanna eile cheana féin<SPLIT>.
 Is beag aischothú a fuair scríbhneoirí áirithe ar a gcuid blaganna<SPLIT>.
-Níorbh fhiú an tairbhe an trioblóid<SPLIT>, b'fhéidir<SPLIT>.
+Níorbh fhiú an tairbhe an trioblóid<SPLIT>, b'<SPLIT>fhéidir<SPLIT>.
 Tá cumhacht gan fhreagracht ag na meatacháin ar líne<SPLIT>.
-Sa chomhthéacs sin<SPLIT>, b'fhéidir nárbh fhiú an trioblóid le bheith ag scríobh blag<SPLIT>.
+Sa chomhthéacs sin<SPLIT>, b'<SPLIT>fhéidir nárbh fhiú an trioblóid le bheith ag scríobh blag<SPLIT>.
 An chúis is mó go bhfuil meath tagtha ar bhlaganna na Gaeilge ná<SPLIT>...
 Níl luach saothair ar bith le baint as<SPLIT>.
 Ba mhinic fosta gur maslaí ó dhaoine le hainmneacha cleite a bhíodh mar thoradh ar na tuairimí a nocht blagadóirí<SPLIT>.
-Tugann scaoilteacht an idirlín ardán d'achan chineál cancráin a bheith ag caitheamh anuas ar dhaoine eile faoi sciath na ganfhiosaíochta<SPLIT>.
-Thuigfeá d'éinne nach mbeadh ag iarraidh feannadh den chineál sin a tharraingt orthu féin<SPLIT>.
+Tugann scaoilteacht an idirlín ardán d'<SPLIT>achan chineál cancráin a bheith ag caitheamh anuas ar dhaoine eile faoi sciath na ganfhiosaíochta<SPLIT>.
+Thuigfeá d'<SPLIT>éinne nach mbeadh ag iarraidh feannadh den chineál sin a tharraingt orthu féin<SPLIT>.
 Is beag iriseoir gairmiúil atá ábalta a bheatha a bhaint i dtír leis an bhlagadóireacht<SPLIT>.
 Anuas ar sin<SPLIT>, ní thig éalú ó ghnáthchúraimí an tsaoil a thiteann ar dhuine<SPLIT>, ar nós airgead a thuilleamh nó clann a thógáil<SPLIT>.
 Is maith an coincheap é iriseoireacht an tsaoránaigh ach i ndeireadh ama caithfear na billí a íoc<SPLIT>!
@@ -4235,7 +4235,7 @@ Seans gur fearr a fhóireann seirbhís mhicreabhlagála dá chineál don duine g
 Éilíonn gontacht na formáide (<SPLIT>140 carachtar<SPLIT>) nach dtéann an scríbhneoir chun fadála ina chuid smaointe<SPLIT>.
 Níl i Twitter go bunúsach ach teachtaireachtaí téacs don idirlíon<SPLIT>.
 Ní bheifeá ag súil leis an doimhneacht chéanna tuairimíochta uathu is a bheadh ó phostálacha níba fhaide ar nós blag nó colún ar líne<SPLIT>.
-Eascraíonn an cheist<SPLIT>:...
+Eascraíonn an cheist<SPLIT>:<SPLIT>...
 Amanna<SPLIT>, tugann na meáin aird ar na cásanna sin<SPLIT>, amanna eile ní thugann<SPLIT>.
 D'<SPLIT>fhág muid slán ag a chéile don oíche<SPLIT>.
 I seilbh an phobail atá an tseanbheairic anois<SPLIT>.
@@ -4254,7 +4254,7 @@ Tá seanreilig i lár chathair Bhoston<SPLIT>.
 Bhí an clár ag tabhairt eolais faoi stair na háite<SPLIT>.
 D'<SPLIT>aistríos an t-eolas go Gaeilge di<SPLIT>.
 Ghlaoigh sí ar a cara<SPLIT>.
-I mbarr a gutha<SPLIT>, ghlaoigh sí<SPLIT>:...
+I mbarr a gutha<SPLIT>, ghlaoigh sí<SPLIT>:<SPLIT>...
 Ní phléitear cine i Meiriceá go poiblí<SPLIT>.
 Is é an t-ábhar is conspóidí i Meiriceá go fóill é<SPLIT>, déarfainn<SPLIT>.
 Bhí na daltaí ag foghlaim faoi stair an chine ghoirm le déanaí ar scoil<SPLIT>.
@@ -4268,7 +4268,7 @@ Dúirt mé le mo chomharsa ar an eitleán go mbeinn ag tógáil bus ar aghaidh g
 Éireannach ab ea é a bhí ina chónaí i Meiriceá le fada<SPLIT>.
 Ní thógann ach daoine bochta an bus<SPLIT>.
 Tá Gormaigh i Meiriceá ón tús<SPLIT>.
-Ar fáil amach do na cóilínigh go raibh talamh mhaith sa domhan nua<SPLIT>,...
+Ar fáil amach do na cóilínigh go raibh talamh mhaith sa domhan nua<SPLIT>,<SPLIT>...
 Bhí gá le hoibrithe chun an talamh a ghlanadh agus na bairr a chur<SPLIT>, a bhaint<SPLIT>, agus a iompar<SPLIT>.
 Cuireadh cána i gceantar na Cairibe agus cadás níos faide siar agus ó thuaidh<SPLIT>.
 Ar ndóigh ba ag freastal ar na margaí siúcra agus éadaí ar ais san Eoraip a bhí na trádálaithe<SPLIT>.
@@ -4276,7 +4276,7 @@ Ach bhí an comórtas géar idir na soláthróirí<SPLIT>, agus bhí na brabaigh
 Ní raibh úinéirí na n-eastát in ann oibrithe a mhealladh as an Eoraip ná as Meiriceá<SPLIT>.
 Thosaíodar mar sin ag ceannach oibrithe as an Afraic<SPLIT>.
 Caithfear cuimhneamh go<SPLIT>...
-As an am seo amach b'iad sclábhaithe formhór mór na ndaoine gorma a facthas san Eoraip agus sa domhan nua<SPLIT>.
+As an am seo amach b'<SPLIT>iad sclábhaithe formhór mór na ndaoine gorma a facthas san Eoraip agus sa domhan nua<SPLIT>.
 Níorbh fhada gur thosaigh daoine geala ag breathnú ar dhaoine gorma mar fho-chine<SPLIT>.
 Níorbh fhada gur thosaigh feachtais in aghaidh na sclábhaíochta<SPLIT>.
 Faoi dheireadh an 17ú haois bhí deireadh le húinéireacht sclábhaithe san Eoraip<SPLIT>.
@@ -4290,14 +4290,14 @@ Ceithre bliana<SPLIT>, gan lá chuige nó uaidh<SPLIT>, a bhí Séimí<SPLIT>.
 Cuireadh chun na scoile é<SPLIT>.
 Ní raibh bríste nó a dhath san am air<SPLIT>.
 Chuaigh sé lena mháthair ar ghreim láimhe go teach na scoile<SPLIT>.
-Ar a dhul isteach go teach na scoile dó d'amharc sé go scaollmhar ar gach taobh de<SPLIT>.
+Ar a dhul isteach go teach na scoile dó d'<SPLIT>amharc sé go scaollmhar ar gach taobh de<SPLIT>.
 D'<SPLIT>amharc sé ar an tachrán ar ghreim láimhe léi<SPLIT>.
 Tharraing sé air leabhar<SPLIT>, scríobh dornán inti<SPLIT>, agus dhruid arís í<SPLIT>.
 Fágadh Séimí i gcuideachta scaifte eile páistí a bhí fána thuairim féin méide<SPLIT>.
 Tharraing an máistir air an leabhar mór<SPLIT>.
 Fágadh iomlán na bpáistí sioctha leis na gáirí<SPLIT>.
 Goidé mar a chuir tú isteach an lá<SPLIT>, a leanbh<SPLIT>?
-Inseoidh mise do m'athair air é<SPLIT>, ach é a theacht ón fharraige<SPLIT>.
+Inseoidh mise do m'<SPLIT>athair air é<SPLIT>, ach é a theacht ón fharraige<SPLIT>.
 Ag déanamh gáire nach raibh a fhonn uirthi<SPLIT>.
 Má tá teach mór agus culaith mhaith éadaigh aigesean<SPLIT>, altaíodh sé iad<SPLIT>.
 Bíodh ciall agat agus fág an cineál sin cainte le rá ag duine inteacht eile<SPLIT>.
@@ -4308,7 +4308,7 @@ Ní bheadh gar domhsa nó duitse a bheith ag caint leo<SPLIT>.
 Eadar an dá Lá Nollag a bhí ann<SPLIT>.
 Leis sin isteach le fear an tí agus cuma scaollmhar air<SPLIT>.
 Chuaigh na páistí a luí ach ní raibh fonn codlata orthu<SPLIT>.
-Gabh ar d'aghaidh<SPLIT>.
+Gabh ar d'<SPLIT>aghaidh<SPLIT>.
 Bí i do shuí<SPLIT>.
 Goidé an duine atá ann<SPLIT>?
 Girseach<SPLIT>.
@@ -4321,7 +4321,7 @@ Rug sí ar an ghloine agus bhain súimín as<SPLIT>.
 Tá seanaithne agamsa uirthi<SPLIT>.
 Gabh anseo go bhfeice tú í<SPLIT>.
 Órú<SPLIT>, chomh beag léi<SPLIT>!
-Glac m'fhocalsa air<SPLIT>.
+Glac m'<SPLIT>fhocalsa air<SPLIT>.
 B'<SPLIT>fhíor di<SPLIT>, faraor<SPLIT>.
 Níl méid nó meáchan inti<SPLIT>.
 I gceann a sheacht mblian a bhí Séimí<SPLIT>.
@@ -4339,7 +4339,7 @@ Níl sásamh le déanamh oraibh<SPLIT>.
 Tá na páistí amú agat<SPLIT>, ó chaithfidh mé a rá leat<SPLIT>.
 Ba bhreá amach an scéalaí an tseanbhean<SPLIT>.
 Seo seo<SPLIT>, tá a bhfuil sa teach amú ag do chuid scéalta<SPLIT>.
-Bhí sé chomh gann i gcéill leis an leanbh a bhí cúig bliana ní b'óige ná é<SPLIT>.
+Bhí sé chomh gann i gcéill leis an leanbh a bhí cúig bliana ní b'<SPLIT>óige ná é<SPLIT>.
 In áit a bheith ag cruinniú céille is é rud atá sé ag cailleadh cibé a bhí aige<SPLIT>.
 Tá Babaí inleithscéil go fóill<SPLIT>, nó níl inti ach luspairt linbh<SPLIT>.
 Ach eisean ag cur bádaí beaga ar snámh<SPLIT>, san aois a bhfuil sé ann<SPLIT>!
@@ -4385,7 +4385,7 @@ Lupadán de pháiste smugach<SPLIT>.
 Ní raibh a bhean marbh ach cupla mí go rabhathas á rá i modh rúin go raibh sé ag smaoineamh ar cheann eile a tharraingt air<SPLIT>.
 Fuair sé greim gruaige uirthi<SPLIT>.
 Ní raibh sásamh le déanamh air<SPLIT>.
-An síleann sibh chugaibh féin go bhfuil mé<SPLIT>...?
+An síleann sibh chugaibh féin go bhfuil mé<SPLIT>...<SPLIT>?
 B'<SPLIT>fhada i dteach na mbocht nó ag cruinniú na déirce í ach go bé mise<SPLIT>!
 Goidé tá a dhíth ort ar a shon<SPLIT>?
 Cá beag duit a bhfuil déanta agat<SPLIT>?
@@ -4413,7 +4413,7 @@ Tá ár gcluasa bodhraithe aige agus gan as a bhéal ach Babaí<SPLIT>.
 D'<SPLIT>fhág sé páipéar nuachta as a láimh ar an tábla<SPLIT>.
 Is fada sinn ag feitheamh léi<SPLIT>, mar Home Rule<SPLIT>.
 Tá braon ar bord ag an fhear anocht<SPLIT>.
-Ba mhór an truaighe nach bhfuair mé foghlaim i m'óige<SPLIT>.
+Ba mhór an truaighe nach bhfuair mé foghlaim i m'<SPLIT>óige<SPLIT>.
 Is cuma duitse ach an tseanlánúin a bheith sásta<SPLIT>.
 Bhí na súile ag drud uirthi leis an chodladh<SPLIT>.
 Tá an léann amach aige<SPLIT>.
@@ -4490,10 +4490,10 @@ Ná blais aon deor den bheoir mhallaithe le do lá<SPLIT>.
 Is cuma dá mbíodh siad ag magadh ort go dtiteadh an cár astu<SPLIT>.
 Mo chreach agus mo chrá gan mé chomh hóg leatsa inniu<SPLIT>.
 Chaithfinn saol nár chaith mé<SPLIT>.
-Ba róbheag a shamhail mé go n-imeoinn mar a d'imigh mé<SPLIT>.
+Ba róbheag a shamhail mé go n-imeoinn mar a d'<SPLIT>imigh mé<SPLIT>.
 Ní raibh acu ach mé<SPLIT>.
 Thug siad scoil agus léann domh ar feadh a n-acmhainne<SPLIT>.
-Is maith is cuimhin liom an tráthnóna a d'imigh mé<SPLIT>.
+Is maith is cuimhin liom an tráthnóna a d'<SPLIT>imigh mé<SPLIT>.
 Ba é sin an t-amharc deireanach a fuair mé orthu<SPLIT>.
 Níl léamh nó scríobh nó inse béil ar an ghrá a thug mise don chailín udaí<SPLIT>.
 Ná bím ag caoineadh<SPLIT>!
@@ -4502,12 +4502,12 @@ Ní raibh eagla le cur orm<SPLIT>.
 Síleann tú an cineál seo cainte a bheith iontach ag mo leithéidse<SPLIT>.
 Bhí mise ar feadh míosa ar mo sheachnadh<SPLIT>.
 Thóg siad ó mo leaba mé uair roimh an lá<SPLIT>.
-An lá fuair mé cead na coise b'éadrom mo chroí<SPLIT>.
+An lá fuair mé cead na coise b'<SPLIT>éadrom mo chroí<SPLIT>.
 Chuaigh mé in éadóchas<SPLIT>.
 Nuair a bheadh an saol fá chónaí<SPLIT>...
 Goidé tháinig uirthi<SPLIT>?
 Bhí fuath na námhad agam air i mo chroí<SPLIT>.
-D'<SPLIT>ól mé agus d'ól mé gur chaill mé mo mheabhair agus mo stuaim<SPLIT>.
+D'<SPLIT>ól mé agus d'<SPLIT>ól mé gur chaill mé mo mheabhair agus mo stuaim<SPLIT>.
 Tá mé thar chomhairle anois<SPLIT>.
 Ná thabhair grá do chroí choíche do mhnaoi<SPLIT>.
 Thug 'ach aon duine acu lámh is focal don duine eile<SPLIT>.
@@ -4542,7 +4542,7 @@ Cá raibh sé le fada riamh<SPLIT>?
 Thost sé<SPLIT>.
 Ansin smaoinigh sé nach raibh sin inráite aige<SPLIT>.
 Tháinig na deora leis<SPLIT>.
-Is minic a chuala mé m'athair ag scéalaíocht ort<SPLIT>.
+Is minic a chuala mé m'<SPLIT>athair ag scéalaíocht ort<SPLIT>.
 Bhí cos amuigh is cos istigh san uaigh aige<SPLIT>.
 Ar béal maidine<SPLIT>.
 Ní raibh as a mbéal ach an cogadh<SPLIT>.

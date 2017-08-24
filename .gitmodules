@@ -2,3 +2,7 @@
 	path = tagging/IDT
 	url = https://github.com/jimregan/IrishDependencyTreebank.git
 	branch = my-changes
+[submodule "citizens-information-raw"]
+	path = citizens-information-raw
+	url = https://github.com/jimregan/citizens-information-raw.git
+	branch = master

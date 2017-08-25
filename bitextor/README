@@ -1,0 +1,2 @@
+downloaded-filelist-to-bitextor-ett.pl takes the output of find and writes the files in the format
+expected by bitextor. There seems to have been a program to do this, but I can't locate it.

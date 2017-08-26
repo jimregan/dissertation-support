@@ -28,5 +28,5 @@ for my $k (keys %forms) {
 }
 
 END{
-print '<dictionary>';
+print '</dictionary>';
 }

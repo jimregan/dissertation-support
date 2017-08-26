@@ -44,7 +44,9 @@ while(<STDIN>) {
     if($#line != 1) {
         print STDERR $_;
     }
-    if(exists $forms{$line[1]}) {
+    if($line[0] eq '++Num+Op') {
+        $forms{'+'} = 'Num:Op';
+    } elsif(exists $forms{$line[1]}) {
         $forms{$line[1]} .= " $nline[1]";
     } else {
         $forms{$line[1]} = $nline[1];

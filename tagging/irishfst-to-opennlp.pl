@@ -23,6 +23,7 @@ while(<>) {
 }
 
 for my $k (keys %forms) {
+    $k =~ s/&/&amp;/;
     print "<entry tags=\"$forms{$k}\">\n<token>$k</token>\n</entry>\n";
 }
 

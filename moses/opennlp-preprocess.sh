@@ -14,7 +14,7 @@ then
 else
 	TOK=$OPENNLP_MODELS/ga-token.bin.zip
 	POS=$OPENNLP_MODELS/ga-pos-maxent.zip
-	LWR=$SCRDIR/tolower.sh
+	LWR="bash $SCRDIR/tolower.sh"
 fi
 
 $OPENNLP TokenizerME $TOK |grep -v '^Execution time:' | $LWR | perl scripts/tokenizer/replace-unicode-punctuation.perl

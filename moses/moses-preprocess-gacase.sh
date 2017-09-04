@@ -2,6 +2,7 @@
 
 MOSESDIR=/home/jim/Playing/mosesdecoder
 LANG=$1
+SCRDIR=$(dirname "$0")
 
 if [ $1 = "en" ]
 then

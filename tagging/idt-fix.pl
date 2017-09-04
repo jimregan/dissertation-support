@@ -117,7 +117,6 @@ while(<>) {
         if ($surface =~ /_/) {
         print STDERR "\"$surface\"\n";
             for my $word (@{$unmwe{$surface}}) {
-            print STDERR "HERE!\n";
                 print "_\t$$word[0]\t$$word[1]\t$$word[2]\t_\t_\t_\t_\t_\t_\n";
             }
         } else {

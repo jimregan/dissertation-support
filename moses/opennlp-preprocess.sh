@@ -17,5 +17,5 @@ else
 	LWR=$SCRDIR/tolower.sh
 fi
 
-$OPENNLP TokenizerME $TOK | $LWR | perl scripts/tokenizer/replace-unicode-punctuation.perl
+$OPENNLP TokenizerME $TOK |grep -v '^Execution time:' | $LWR | perl scripts/tokenizer/replace-unicode-punctuation.perl
 

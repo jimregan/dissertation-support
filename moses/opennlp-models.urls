@@ -1,0 +1,5 @@
+http://opennlp.sourceforge.net/models-1.5/en-token.bin
+http://opennlp.sourceforge.net/models-1.5/en-pos-maxent.bin
+https://github.com/jimregan/ainm-ner-corpus/releases/download/v0.1/ga-token.bin.zip
+https://github.com/jimregan/dissertation-support/releases/download/opennlp-initial-models/ga-pos-maxent.zip
+https://github.com/jimregan/dissertation-support/releases/download/opennlp-initial-models/ga-lemmatizer.zip

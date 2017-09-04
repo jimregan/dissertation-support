@@ -6,3 +6,6 @@
 	path = citizens-information-raw
 	url = https://github.com/jimregan/citizens-information-raw.git
 	branch = master
+[submodule "ainm-ner"]
+	path = ainm-ner
+	url = https://github.com/jimregan/ainm-ner-corpus.git

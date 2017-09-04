@@ -9,3 +9,6 @@
 [submodule "ainm-ner"]
 	path = ainm-ner
 	url = https://github.com/jimregan/ainm-ner-corpus.git
+[submodule "moses/OpenNLPMosesFactored"]
+	path = moses/OpenNLPMosesFactored
+	url = https://github.com/jimregan/OpenNLPMosesFactored.git

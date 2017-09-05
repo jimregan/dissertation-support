@@ -1,0 +1,247 @@
+  812  cd Playing/
+  813  mkdir bitexts
+  814  cd bitext
+  815  cd bitexts/
+  816  ls
+  817  unzip /media/jim/408C-AC9A/baseline-bitexts.zip
+  818  ls /media/jim/408C-AC9A/*zip
+  819  unzip -l /media/jim/TOSHIBA/workpc/baseline-model.zip
+  820  unzip /media/jim/TOSHIBA/workpc/baseline-model.zip
+  821  #cp model/moses.ini 
+  822  mkdir ~/Playing/dissertation-data/moses
+  823  mkdir ~/Playing/dissertation-data/moses/baseline-1
+  824  cp  model/ ~/Playing/dissertation-data/moses/baseline-1
+  825  cp  model/moses.ini ~/Playing/dissertation-data/moses/baseline-1
+  826  ls
+  827  less all.en.bpetok 
+  828  less all-raw.en 
+  829  ls
+  830  less all-raw.ga 
+  831  cd ../dissertation-data/moses/
+  832  cd ..
+  833  git add moses/
+  834  git commit -m moses.ini
+  835  git push origin master
+  836  find /media/jim/TOSHIBA/ -name '*zip;
+  837  find /media/jim/TOSHIBA/ -name '*zip#
+  838  find /media/jim/TOSHIBA/ -name '*zip'
+  839  git submodule add https://github.com/jimregan/ainm-ner-corpus.git ainm-ner
+  840  git status
+  841  git commit -m 'add ainm-ner'
+  842  git push origin master
+  843  unzip -l /media/jim/408C-AC9A/baseline-bitexts.zip
+  844  find /media/jim -name '*zip'
+  845  cd moses/
+  846  vi tolower.sh
+  847  echo GO nÉIRE | bash tolower.sh
+  848  vi tolower.sh
+  849  echo GO nÉIRE | bash tolower.sh
+  850  ls
+  851  git add tolower.sh 
+  852  git commit -m 'Irish tolower, using uconv'
+  853  ls /tmp/
+  854  cd /tmp/
+  855  unzip ~/Downloads/apache-opennlp-1.8.1-bin.zip 
+  856  cd  apache-opennlp-1.8.1/
+  857  ls
+  858  cd ~/Downloads/
+  859  ls
+  860  find /media -name nohup.out
+  861  wget https://github.com/jimregan/dissertation-support/releases/download/moses-base-1/ga.3.arpa
+  862  less ga.3.arpa 
+  863  rm ga.3.arpa 
+  864  ls
+  865  cd ~/Playing/mosesdecoder/
+  866  ls
+  867  mkdir corpus
+  868  cd Playing/moses
+  869  cd Playing/mosesdecoder/
+  870  ls
+  871  ls corpus/
+  872  cp /media/jim/408C-AC9A/ga.3.arpa corpus/
+  873  less /media/jim/408C-AC9A/corpus
+  874  cp ../bitexts/all-raw.* corpus/
+  875  cat corpus/all-raw.en | perl scripts/tokenizer/tokenizer.perl -l en
+  876  cat corpus/all-raw.en | perl scripts/tokenizer/tokenizer.perl -l en | perl scripts/tokenizer/lowercase.perl 
+  877  cat corpus/all-raw.en | sh ~/Playing/dissertation-data/moses/moses-preprocess.sh en
+  878  cat corpus/all-raw.en | sh ~/Playing/dissertation-data/moses/moses-preprocess.sh en > corpus/all-moses-toklwr.en
+  879  cat corpus/all-raw.ga | sh ~/Playing/dissertation-data/moses/moses-preprocess.sh ga > corpus/all-moses-toklwr.ga
+  880  wc -l corpus/all-moses-toklwr.*
+  881  cat corpus/all-raw.en | sh ~/Playing/dissertation-data/moses/moses-preprocess.sh en | perl scripts/tokenizer/normalize-punctuation.perl > corpus/all-moses-toklwr-normp.en
+  882  cat corpus/all-raw.en | sh ~/Playing/dissertation-data/moses/moses-preprocess.sh en | perl scripts/tokenizer/normalize-punctuation.perl | perl scripts/tokenizer/replace-unicode-punctuation.perl > corpus/all-moses-toklwr-normp-noup.en
+  883  diff -u corpus/all-moses-toklwr.en corpus/all-moses-toklwr-normp.en 
+  884  cat corpus/all-raw.en | sh ~/Playing/dissertation-data/moses/moses-preprocess.sh en | perl scripts/tokenizer/replace-unicode-punctuation.perl > corpus/all-moses-toklwr-noup.en
+  885  less corpus/all-moses-toklwr-noup.en 
+  886  diff -u corpus/all-moses-toklwr.en corpus/all-moses-toklwr-noup.en 
+  887  cat corpus/all-raw.ga | sh ~/Playing/dissertation-data/moses/moses-preprocess.sh ga | perl scripts/tokenizer/replace-unicode-punctuation.perl > corpus/all-moses-toklwr-noup.ga
+  888  rm corpus/all-moses-toklwr*
+  889  ls corpus/
+  890  cat corpus/all-raw.en | sh ~/Playing/dissertation-data/moses/moses-preprocess.sh en > corpus/all-moses-preproc.en
+  891  cat corpus/all-raw.ga | sh ~/Playing/dissertation-data/moses/moses-preprocess.sh ga > corpus/all-moses-preproc.ga
+  892  ls
+  893  mkdir attempts
+  894  mkdir attempts/mosespreproc
+  895  find . -name train-model.perl
+  896  nohup perl scripts/training/train-model.perl --root-dir attempts/mosespreproc/ --corpus corpus/all-moses-preproc --f en --e ga --lm 0:3:corpus/ga.3.arpa --external-bin-dir ../mgiza/mgizapp/bin/ --input-factor-max 4 &
+  897  less nohup.out 
+  898  nproc
+  899  nohup perl scripts/training/train-model.perl --root-dir attempts/mosespreproc/ --corpus corpus/all-moses-preproc --f en --e ga --lm 0:3:corpus/ga.3.arpa -mgiza -mgiza-cpus 8 --external-bin-dir ../mgiza/mgizapp/bin/ --input-factor-max 4 &
+  900  less nohup.out 
+  901  nohup perl scripts/training/train-model.perl --root-dir attempts/mosespreproc/ --corpus corpus/all-moses-preproc --f en --e ga --lm 0:3:corpus/ga.3.arpa -mgiza -mgiza-cpus 8 -external-bin-dir ../mgiza/mgizapp/ -input-factor-max 4 &
+  902  cat nohup.out 
+  903  mkdir tools
+  904  cp ../mgiza/mgizapp/bin/* tools/
+  905  nohup perl scripts/training/train-model.perl --root-dir attempts/mosespreproc/ --corpus corpus/all-moses-preproc --f en --e ga --lm 0:3:corpus/ga.3.arpa -mgiza -mgiza-cpus 8 -external-bin-dir tools/ -input-factor-max 4 &
+  906  cat nohup.out 
+  907  cp ../mgiza/mgizapp/scripts/*py tools/
+  908  nohup perl scripts/training/train-model.perl --root-dir attempts/mosespreproc/ --corpus corpus/all-moses-preproc --f en --e ga --lm 0:3:corpus/ga.3.arpa -mgiza -mgiza-cpus 8 -external-bin-dir tools/ -input-factor-max 4 &
+  909  cat nohup.out 
+  910  ls tools/
+  911  nohup perl scripts/training/train-model.perl --root-dir attempts/mosespreproc/ --corpus corpus/all-moses-preproc --f en --e ga --lm 0:3:$PWD/corpus/ga.3.arpa -mgiza -mgiza-cpus 8 -external-bin-dir tools/ -input-factor-max 4 &
+  912  tail -f nohup.out 
+  913  cat corpus/all-raw.en | sh opennlp-preprocess.sh en > corpus/all-onlp-preproc.en
+  914  cat corpus/all-raw.en | sh ~/Playing/dissertation-data/moses/opennlp-preprocess.sh en > corpus/all-onlp-preproc.en
+  915  less corpus/all-onlp-preproc.en
+  916  grep '^execution' corpus/all-onlp-preproc.en
+  917  cat corpus/all-raw.en | sh ~/Playing/dissertation-data/moses/opennlp-preprocess.sh en > corpus/all-onlppreproc.en
+  918  diff -u corpus/all-onlp-preproc.en corpus/all-onlppreproc.en 
+  919  rm corpus/all-onlp-preproc.en 
+  920  cat corpus/all-raw.ga | sh ~/Playing/dissertation-data/moses/opennlp-preprocess.sh ga > corpus/all-onlppreproc.ga
+  921  tail -f nohup.out 
+  922  less nohup.out 
+  923  ls scripts/training/clean-corpus-n.perl 
+  924  less scripts/training/clean-corpus-n.perl 
+  925  perl scripts/training/clean-corpus-n.perl corpus/all-raw en ga corpus/all-clean-1-50
+  926  perl scripts/training/clean-corpus-n.perl corpus/all-raw en ga corpus/all-clean-1-50 1 50
+  927  less corpus/all-clean-1-50.en 
+  928  less corpus/all-clean-1-50.ga 
+  929  cat corpus/all-clean-1-50.en | sh ~/Playing/dissertation-data/moses/opennlp-preprocess.sh en > corpus/all-cl150-onlppreproc.en
+  930  cat corpus/all-clean-1-50.ga | sh ~/Playing/dissertation-data/moses/opennlp-preprocess.sh ga > corpus/all-cl150-onlppreproc.ga
+  931  tail -f nohup.out 
+  932  ls -al nohup.out 
+  933  history > hist.f
+  934  mv nohup.out attempts/mosespreproc/
+  935  nohup perl scripts/training/train-model.perl --root-dir attempts/mosespreproc/ --corpus corpus/all-clean-1-50 --f en --e ga --lm 0:3:$PWD/corpus/ga.3.arpa -mgiza -mgiza-cpus 8 -external-bin-dir tools/ -input-factor-max 4 &
+  936  tail -f nohup.out 
+  937  ps aux|grep nohup#
+  938  ps aux|grep nohup
+  939  ps aux|grep train
+  940  kill -9 4860
+  941  ps aux|grep train
+  942  kill -9 4816
+  943  tail nohup.out 
+  944  rm nohup.out 
+  945  ls -al attempts/mosespreproc/model/
+  946  rm -rf attempts/mosespreproc/
+  947  mkdir attempts/mosespreproc/
+  948  nohup perl scripts/training/train-model.perl --root-dir attempts/mosespreproc/ --corpus corpus/all-moses-preproc --f en --e ga --lm 0:3:$PWD/corpus/ga.3.arpa -mgiza -mgiza-cpus 8 -external-bin-dir tools/ -input-factor-max 4 &
+  949  tail -f nohup.out 
+  950  ls
+  951  less scripts/training/wrappers/make-factor-pos.tree-tagger.perl 
+  952  tail -f nohup.out 
+  953  mkdir attempts/mosespreprocclean
+  954  mkdir attempts/onlppreproc
+  955  mkdir attempts/onlppreprocclean
+  956  tail -f nohup.out 
+  957  date && nohup perl scripts/training/train-model.perl --root-dir attempts/onlppreproc --corpus corpus/all-onlppreproc --f en --e ga --lm 0:3:$PWD/corpus/ga.3.arpa -mgiza -mgiza-cpus 8 -external-bin-dir tools/ -input-factor-max 4 & && date
+  958  date ; nohup perl scripts/training/train-model.perl --root-dir attempts/onlppreproc --corpus corpus/all-onlppreproc --f en --e ga --lm 0:3:$PWD/corpus/ga.3.arpa -mgiza -mgiza-cpus 8 -external-bin-dir tools/ -input-factor-max 4 &  ; date
+  959  less nohup.out 
+  960  cat corpus/all-clean-1-50.ga | sh ~/Playing/dissertation-data/moses/moses-preprocess.sh ga > corpus/all-moses-preproc-clean.ga
+  961  cat corpus/all-clean-1-50.en | sh ~/Playing/dissertation-data/moses/moses-preprocess.sh en > corpus/all-moses-preproc-clean.en
+  962  tail -f nohup.out 
+  963  less nohup.out 
+  964  tail -f nohup.out 
+  965  ls corpus/
+  966  less corpus/all-onlppreproc.0-0.en 
+  967  less corpus/all-onlppreproc.0-0.ga 
+  968  tail -f nohup.out 
+  969  nohup perl scripts/training/train-model.perl --root-dir attempts/mosespreprocclean/ --corpus corpus/all-moses-preproc-clean --f en --e ga --lm 0:3:$PWD/corpus/ga.3.arpa -mgiza -mgiza-cpus 8 -external-bin-dir tools/ -input-factor-max 4 &  
+  970  tail -f nohup.out 
+  971  nohup perl scripts/training/train-model.perl --root-dir attempts/onlppreprocclean/ --corpus corpus/all-cl150-onlppreproc --f en --e ga --lm 0:3:$PWD/corpus/ga.3.arpa -mgiza -mgiza-cpus 8 -external-bin-dir tools/ -input-factor-max 4 &  
+  972  tail -f nohup.out 
+  973  mkdir attempts/mosesgacase
+  974  cat corpus/all-clean-1-50.en | sh ~/Playing/dissertation-data/moses/moses-preprocess-gacase.sh en > corpus/all-moses-preproc-clean-gacase.en
+  975  cat corpus/all-clean-1-50.ga | sh ~/Playing/dissertation-data/moses/moses-preprocess-gacase.sh ga > corpus/all-moses-preproc-clean-gacase.ga
+  976  less  corpus/all-moses-preproc-clean-gacase.ga
+  977  ls -al  corpus/all-moses-preproc-clean-gacase.ga
+  978  ls -al corpus/
+  979  cat corpus/all-clean-1-50.ga | sh ~/Playing/dissertation-data/moses/moses-preprocess-gacase.sh ga > corpus/all-moses-preproc-clean-gacase.ga
+  980  nohup perl scripts/training/train-model.perl --root-dir attempts/mosesgacase/ --corpus corpus/all-moses-preproc-clean-gacase --f en --e ga --lm 0:3:$PWD/corpus/ga.3.arpa -mgiza -mgiza-cpus 8 -external-bin-dir tools/ -input-factor-max 4 &  
+  981  tail -f nohup.out 
+  982  less  corpus/all-moses-preproc-clean-gacase.ga
+  983  pwd
+  984  tail -f nohup.out 
+  985  #nohup perl scripts/training/train-model.perl --root-dir attempts/moses --corpus corpus/all-moses-preproc-clean-gacase --f en --e ga --lm 0:3:$PWD/corpus/ga.3.arpa -mgiza -mgiza-cpus 8 -external-bin-dir tools/ -input-factor-max 4 &  
+  986  tail nohup.out 
+  987  mkdir attempts/mosesfactor
+  988  nohup perl scripts/training/train-model.perl --root-dir attempts/mosesfactor/ --corpus corpus/all-moses-preproc-clean-gacase-factor --f en --e ga --lm 0:3:$PWD/corpus/ga.3.arpa --lm 2:3:/home/jim/Playing/mosesdecoder/corpus/ga.pos.3.arpa  -mgiza -mgiza-cpus 8 -external-bin-dir tools/ -input-factor-max 4 -translation-factors 0-0 &  
+  989  tail -f nohup.out 
+  990  mkdir attempts/mosesfactor2
+  991  tail -f nohup.out 
+  992  ls -al corpus/
+  993  less corpus/all-moses-preproc-clean-gacase-factor.ga 
+  994  tail -f nohup.out 
+  995  nohup perl scripts/training/train-model.perl --root-dir attempts/mosesfactor2/ --corpus corpus/all-moses-preproc-clean-gacase-factor --f en --e ga --lm 0:3:$PWD/corpus/ga.3.arpa --lm 2:3:/home/jim/Playing/mosesdecoder/corpus/ga.pos.3.arpa  -mgiza -mgiza-cpus 8 -external-bin-dir tools/ -input-factor-max 4 -translation-factors 0-0+1-1+2-2 -generation-factors 1-2+1,2-0 -decoding-steps t0,g0,t1,g1 &  
+  996  tail -f nohup.out 
+  997  less attempts/mosesfactor/model/moses.ini 
+  998  tail -f nohup.out 
+  999  ls -al corpus/
+ 1000  tail -f nohup.out 
+ 1001  ls -al corpus/
+ 1002  tail -f nohup.out 
+ 1003  less /home/jim/Playing/mosesdecoder/attempts/mosesfactor2/model/lex.2-2.f2e 
+ 1004  less /home/jim/Playing/mosesdecoder/attempts/mosesfactor2/model/lex.1-1.f2e 
+ 1005  less /home/jim/Playing/mosesdecoder/attempts/mosesfactor2/model/lex.0-0.f2e 
+ 1006  grep  1.0000000  /home/jim/Playing/mosesdecoder/attempts/mosesfactor2/model/lex.0-0.f2e 
+ 1007  tail -f nohup.out 
+ 1008  less attempts/mosesfactor2/model/moses.ini 
+ 1009  zless /home/jim/Playing/mosesdecoder/attempts/mosesfactor2/model/generation.1,2-0.gz 
+ 1010  ls attempts/
+ 1011  cd attempts/
+ 1012  for i in *;do echo $i;done
+ 1013  find .. -name 'moses'
+ 1014  for i in *;do cat /tmp/iris_eval_set.tok.lc.en |  ../bin/moses -f $i/moses.ini > /tmp/$i-out;done
+ 1015  ls 
+ 1016  ls mosespreproc
+ 1017  for i in *;do cat /tmp/iris_eval_set.tok.lc.en |  ../bin/moses -f $i/model/moses.ini > /tmp/$i-out;done
+ 1018  ls /tmp/
+ 1019  ls -al /tmp/*-out
+ 1020  cat /tmp/iris_eval_set.tok.lc.en |  ../bin/moses -f onlppreproc/model/moses.ini 
+ 1021  cat /tmp/iris_eval_set.tok.lc.en |  ../bin/moses -f onlppreprocclean/model/moses.ini 
+ 1022  for i in *;do cat /tmp/iris_eval_set.tok.lc.en|perl ../scripts/tokenizer/escape-special-chars.perl |  ../bin/moses -f $i/model/moses.ini > /tmp/$i-out;done
+ 1023  grep 'cdata' /tmp/iris_eval_set.tok.lc.en 
+ 1024  less /tmp/iris_eval_set.tok.lc.en 
+ 1025  less onlppreprocclean/model/moses.ini
+ 1026  ls
+ 1027  for i in *;do cd $i; ls model/* |zip ../$i.zip -@;cd ..;done
+ 1028  mkdir /tmp/upl
+ 1029  mv *zip /tmp/upl/
+ 1030  for i in *;do cp $i/model/moses.ini $i;ls $i/moses.ini | zip /tmp/inis.zip -@;done
+ 1031  rm */moses.ini
+ 1032  cat xaa | ../bin/moses -f mosesfactor2/model/moses.ini 
+ 1033  cat xaa |perl ../scripts/tokenizer/escape-special-chars.perl | ../bin/moses -f mosesfactor2/model/moses.ini 
+ 1034  cat xab |perl ../scripts/tokenizer/escape-special-chars.perl | ../bin/moses -f mosesfactor2/model/moses.ini 
+ 1035  cat xac |perl ../scripts/tokenizer/escape-special-chars.perl | ../bin/moses -f mosesfactor2/model/moses.ini 
+ 1036  cat xac |perl ../scripts/tokenizer/escape-special-chars.perl | ../bin/moses -f mosesgacase/model/moses.ini 
+ 1037  cat xaa |perl ../scripts/tokenizer/escape-special-chars.perl | ../bin/moses -f mosesgacase/model/moses.ini 
+ 1038  ls
+ 1039  echo this is a book |perl ../scripts/tokenizer/escape-special-chars.perl | ../bin/moses -f mosesgacase/model/moses.ini 
+ 1040  echo '<s> this is a book </s>' |perl ../scripts/tokenizer/escape-special-chars.perl | ../bin/moses -f mosesgacase/model/moses.ini 
+ 1041  less /tmp/xaa
+ 1042  less mosesgacase/model/moses.ini 
+ 1043  echo '<s> this is a book </s>' |perl ../scripts/tokenizer/escape-special-chars.perl | ../bin/moses -f mosesgacase/model/moses.ini 
+ 1044  find . -name moses.ini
+ 1045  vi ./mosespreprocclean/model/moses.ini
+ 1046  vi ./mosesfactor2/model/moses.ini
+ 1047  vi ./onlppreproc/model/moses.ini
+ 1048  vi ./onlppreprocclean/model/moses.ini
+ 1049  vi ./mosespreproc/model/moses.ini
+ 1050  vi ./mosesfactor/model/moses.ini
+ 1051  for i in mosespreprocclean onlppreproc onlppreprocclean mosespreproc mosesfactor;do cat /tmp/iris_eval_set.tok.lc.en|perl ../scripts/tokenizer/escape-special-chars.perl |  ../bin/moses -f $i/model/moses.ini > /tmp/$i-out;done
+ 1052  for i in mosesfactor2;do cat /tmp/iris_eval_set.tok.lc.en-out|perl ../scripts/tokenizer/escape-special-chars.perl |  ../bin/moses -f $i/model/moses.ini > /tmp/$i-out;done
+ 1053  vi mosesfactor2/model/moses.ini 
+ 1054  for i in mosesfactor2;do cat /tmp/iris_eval_set.tok.lc.en|perl ../scripts/tokenizer/escape-special-chars.perl |  ../bin/moses -f $i/model/moses.ini > /tmp/$i-out;done
+ 1055  cat /tmp/iris_eval_set.tok.lc.en |head -n 1 |  ../bin/moses -f $i/model/moses.ini 
+ 1056  cat /tmp/iris_eval_set.tok.lc.en |head -n 2 | tail -n 1 |  ../bin/moses -f $i/model/moses.ini 
+ 1057  less /tmp/iris_eval_set.tok.lc.en-out 
+ 1058  history > train-hist

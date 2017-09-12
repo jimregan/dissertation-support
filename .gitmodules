@@ -12,3 +12,6 @@
 [submodule "moses/OpenNLPMosesFactored"]
 	path = moses/OpenNLPMosesFactored
 	url = https://github.com/jimregan/OpenNLPMosesFactored.git
+[submodule "dissertation-template"]
+	path = dissertation-template
+	url = https://github.com/jimregan/thesis.git
